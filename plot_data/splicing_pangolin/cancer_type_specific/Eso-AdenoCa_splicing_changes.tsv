@@ -1,0 +1,87 @@
+pos	score	driver_status	count	gene	splice_gene
+3	0.3199999928474426	Passengers in absence of driver	1	APC	APC
+-1	-0.8100000023841858	Drivers	1	ARID1A	ARID1A
+-1	-0.8899999856948853	Drivers	1	ARID1A	ARID1A
+-8	0.15000000596046448	Drivers	1	ARID1A	ARID1A
+-17	0.2800000011920929	Passengers in absence of driver	1	LRP1B	LRP1B
+-1	0.1899999976158142	Passengers in absence of driver	1	LRP1B	LRP1B
+-1	0.23999999463558197	Passengers in absence of driver	1	LRP1B	LRP1B
+-1	0.7599999904632568	Passengers in absence of driver	2	LRP1B	LRP1B
+-23	0.18000000715255737	Passengers in absence of driver	1	LRP1B	LRP1B
+-24	0.1599999964237213	Passengers in absence of driver	1	LRP1B	LRP1B
+-25	0.20999999344348907	Passengers in absence of driver	1	LRP1B	LRP1B
+-30	0.15000000596046448	Passengers in absence of driver	1	LRP1B	LRP1B
+-42	0.18000000715255737	Passengers in absence of driver	1	LRP1B	LRP1B
+-45	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+-45	0.15000000596046448	Passengers in absence of driver	1	LRP1B	LRP1B
+-5	-0.3400000035762787	Passengers in absence of driver	1	LRP1B	LRP1B
+-8	-0.4399999976158142	Passengers in absence of driver	1	LRP1B	LRP1B
+-8	0.18000000715255737	Passengers in absence of driver	1	LRP1B	LRP1B
+0	0.5400000214576721	Passengers in absence of driver	1	LRP1B	LRP1B
+0	0.7300000190734863	Passengers in absence of driver	1	LRP1B	LRP1B
+14	0.23000000417232513	Passengers in absence of driver	1	LRP1B	LRP1B
+1	-0.8600000143051147	Passengers in absence of driver	1	LRP1B	LRP1B
+1	0.17000000178813934	Passengers in absence of driver	1	LRP1B	LRP1B
+1	0.3799999952316284	Passengers in absence of driver	1	LRP1B	LRP1B
+22	0.1899999976158142	Passengers in absence of driver	1	LRP1B	LRP1B
+25	0.1899999976158142	Passengers in absence of driver	1	LRP1B	LRP1B
+29	0.18000000715255737	Passengers in absence of driver	1	LRP1B	LRP1B
+2	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+34	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+35	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+39	0.23999999463558197	Passengers in absence of driver	1	LRP1B	LRP1B
+3	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+3	0.6800000071525574	Passengers in absence of driver	1	LRP1B	LRP1B
+4	-0.3700000047683716	Passengers in absence of driver	1	LRP1B	LRP1B
+5	0.7599999904632568	Passengers in absence of driver	1	LRP1B	LRP1B
+6	0.20000000298023224	Passengers in absence of driver	1	LRP1B	LRP1B
+6	0.3400000035762787	Passengers in absence of driver	1	LRP1B	LRP1B
+7	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+-14	0.14000000059604645	Passengers in absence of driver	1	PTPRT	PTPRT
+-17	0.2800000011920929	Passengers in absence of driver	1	PTPRT	PTPRT
+-18	0.17000000178813934	Passengers in absence of driver	1	PTPRT	PTPRT
+-1	0.3700000047683716	Passengers in absence of driver	1	PTPRT	PTPRT
+-1	0.7900000214576721	Passengers in absence of driver	1	PTPRT	PTPRT
+-20	0.23000000417232513	Passengers in absence of driver	1	PTPRT	PTPRT
+-21	0.1899999976158142	Passengers in absence of driver	1	PTPRT	PTPRT
+-26	0.14000000059604645	Passengers in absence of driver	1	PTPRT	PTPRT
+-26	0.20999999344348907	Passengers in absence of driver	1	PTPRT	PTPRT
+-2	-0.8100000023841858	Passengers in absence of driver	1	PTPRT	PTPRT
+-2	-0.8199999928474426	Passengers in absence of driver	1	PTPRT	PTPRT
+-3	0.15000000596046448	Passengers in absence of driver	1	PTPRT	PTPRT
+-6	0.5799999833106995	Passengers in absence of driver	1	PTPRT	PTPRT
+0	0.20999999344348907	Passengers in absence of driver	1	PTPRT	PTPRT
+0	0.23000000417232513	Passengers in absence of driver	1	PTPRT	PTPRT
+0	0.28999999165534973	Passengers in absence of driver	1	PTPRT	PTPRT
+0	0.3100000023841858	Passengers in absence of driver	1	PTPRT	PTPRT
+15	0.20000000298023224	Passengers in absence of driver	1	PTPRT	PTPRT
+1	0.28999999165534973	Passengers in absence of driver	1	PTPRT	PTPRT
+1	0.3100000023841858	Passengers in absence of driver	1	PTPRT	PTPRT
+1	0.3400000035762787	Passengers in absence of driver	1	PTPRT	PTPRT
+1	0.550000011920929	Passengers in absence of driver	1	PTPRT	PTPRT
+25	0.28999999165534973	Passengers in absence of driver	1	PTPRT	PTPRT
+30	0.1599999964237213	Passengers in absence of driver	1	PTPRT	PTPRT
+33	0.15000000596046448	Passengers in absence of driver	1	PTPRT	PTPRT
+36	0.18000000715255737	Passengers in absence of driver	1	PTPRT	PTPRT
+3	0.15000000596046448	Passengers in absence of driver	1	PTPRT	PTPRT
+3	0.20000000298023224	Passengers in absence of driver	1	PTPRT	PTPRT
+43	0.1599999964237213	Passengers in absence of driver	1	PTPRT	PTPRT
+46	0.23999999463558197	Passengers in absence of driver	1	PTPRT	PTPRT
+5	0.1599999964237213	Passengers in absence of driver	1	PTPRT	PTPRT
+5	0.5099999904632568	Passengers in absence of driver	1	PTPRT	PTPRT
+6	0.18000000715255737	Passengers in absence of driver	1	PTPRT	PTPRT
+6	0.36000001430511475	Passengers in absence of driver	1	PTPRT	PTPRT
+9	0.20999999344348907	Passengers in absence of driver	1	PTPRT	PTPRT
+-18	0.28999999165534973	Drivers	1	TP53	TP53
+-1	-0.8100000023841858	Drivers	1	TP53	TP53
+-1	-0.8899999856948853	Drivers	1	TP53	TP53
+-22	0.7599999904632568	Drivers	1	TP53	TP53
+-2	-0.3700000047683716	Drivers	1	TP53	TP53
+-35	-0.6000000238418579	Drivers	3	TP53	TP53
+0	-0.7200000286102295	Drivers	1	TP53	TP53
+1	-0.8999999761581421	Drivers	1	TP53	TP53
+1	0.18000000715255737	Drivers	1	TP53	TP53
+32	-0.5600000023841858	Drivers	1	TP53	TP53
+47	0.2199999988079071	Drivers	1	TP53	TP53
+50	-0.6399999856948853	Drivers	1	TP53	TP53
+3	0.3199999928474426	Passengers in absence of driver	1	APC	nan

@@ -1,0 +1,48 @@
+pos	score	driver_status	count	gene	splice_gene
+-15	0.3100000023841858	Passengers in absence of driver	1	CDH10	CDH10
+-6	0.49000000953674316	Passengers in absence of driver	1	CDH10	CDH10
+-8	0.3400000035762787	Passengers in absence of driver	1	CDH10	CDH10
+1	0.20999999344348907	Passengers in absence of driver	1	CDH10	CDH10
+33	0.2199999988079071	Passengers in absence of driver	1	CDH10	CDH10
+38	0.4000000059604645	Passengers in absence of driver	1	CDH10	CDH10
+22	-0.15000000596046448	Drivers	1	CREBBP	CREBBP
+-11	0.8399999737739563	Passengers in absence of driver	1	CSMD3	CSMD3
+-1	-0.8600000143051147	Passengers in absence of driver	1	CSMD3	CSMD3
+-1	-0.8700000047683716	Passengers in absence of driver	1	CSMD3	CSMD3
+-1	0.6700000166893005	Passengers in absence of driver	1	CSMD3	CSMD3
+-47	0.20000000298023224	Passengers in absence of driver	1	CSMD3	CSMD3
+-5	0.1599999964237213	Passengers in absence of driver	1	CSMD3	CSMD3
+-5	0.1899999976158142	Passengers in absence of driver	1	CSMD3	CSMD3
+-8	0.8600000143051147	Passengers in absence of driver	1	CSMD3	CSMD3
+0	0.2199999988079071	Passengers in absence of driver	1	CSMD3	CSMD3
+12	0.1599999964237213	Passengers in absence of driver	1	CSMD3	CSMD3
+1	0.15000000596046448	Passengers in absence of driver	1	CSMD3	CSMD3
+26	0.20000000298023224	Passengers in absence of driver	1	CSMD3	CSMD3
+29	0.1599999964237213	Passengers in absence of driver	1	CSMD3	CSMD3
+34	0.1599999964237213	Passengers in absence of driver	1	CSMD3	CSMD3
+3	0.1599999964237213	Passengers in absence of driver	1	CSMD3	CSMD3
+5	-0.5699999928474426	Passengers in absence of driver	1	CSMD3	CSMD3
+5	-0.6899999976158142	Passengers in absence of driver	1	CSMD3	CSMD3
+5	0.3700000047683716	Passengers in absence of driver	1	CSMD3	CSMD3
+6	-0.18000000715255737	Passengers in absence of driver	1	CSMD3	CSMD3
+-47	0.3400000035762787	Passengers in absence of driver	1	FAM135B	FAM135B
+-7	0.28999999165534973	Passengers in absence of driver	1	FAM135B	FAM135B
+2	0.6000000238418579	Passengers in absence of driver	1	FAM135B	FAM135B
+3	0.5699999928474426	Passengers in absence of driver	1	FAM135B	FAM135B
+-11	0.8399999737739563	Drivers	1	FAT1	FAT1
+-12	-0.3400000035762787	Passengers in absence of driver	1	FAT1	FAT1
+-12	0.5899999737739563	Passengers in absence of driver	1	FAT1	FAT1
+-1	-0.8700000047683716	Drivers	1	FAT1	FAT1
+-2	-0.8799999952316284	Drivers	1	FAT1	FAT1
+-7	0.8199999928474426	Drivers	1	FAT1	FAT1
+4	0.6200000047683716	Passengers in absence of driver	1	FAT1	FAT1
+-1	-0.5199999809265137	Passengers in absence of driver	1	KMT2D	KMT2D
+-37	0.1599999964237213	Passengers in absence of driver	1	KMT2D	KMT2D
+2	0.14000000059604645	Drivers	1	NFE2L2	NFE2L2
+-11	-0.46000000834465027	Drivers	1	TP53	TP53
+-35	-0.6000000238418579	Drivers	1	TP53	TP53
+0	0.23000000417232513	Drivers	1	TP53	TP53
+1	-0.8899999856948853	Drivers	1	TP53	TP53
+1	0.18000000715255737	Drivers	1	TP53	TP53
+2	-0.36000001430511475	Drivers	1	TP53	TP53
+-1	0.33000001311302185	Passengers in absence of driver	1	CSMD3	nan

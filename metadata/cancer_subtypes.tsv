@@ -1,0 +1,97 @@
+organ system	Submitter histopathology (icd-0-3 + description)	count	Tier 1	Tier 2	Tier 3	Tier 4	Tier 3 Abbreviation	Abbrev Length	Tier 3 Group Size												
+"BRAIN, CRANIAL NERVES, & SPINAL CORD"	9421/1 Pilocytic astrocytoma	96	NEURAL_CREST	CNS	Non-diffuse glioma	Pilocytic astrocytoma	CNS-PiloAstro	13	96												
+"BRAIN, CRANIAL NERVES, & SPINAL CORD"	"9440/3 Glioblastoma, NOS"	41	NEURAL_CREST	CNS	Diffuse glioma	Glioblastoma	CNS-GBM	7	41												
+"BRAIN, CRANIAL NERVES, & SPINAL CORD"	"9450/3 Oligodendroglioma, NOS"	19	NEURAL_CREST	CNS	Diffuse glioma	Oligodendroglioma	CNS-Oligo	9	121												
+"BRAIN, CRANIAL NERVES, & SPINAL CORD"	"9470/3 Medulloblastoma, NOS"	102	NEURAL_CREST	CNS	Medulloblastoma	Medulloblastoma	CNS-Medullo	11													
+"BRAIN, CRANIAL NERVES, & SPINAL CORD"	9471/3 Desmoplastic medulloblastoma	22	NEURAL_CREST	CNS	Medulloblastoma	Desmoplastic medulloblastoma	CNS-Medullo	11	53												
+"BRAIN, CRANIAL NERVES, & SPINAL CORD"	9474/3 Large cell medulloblastoma	30	NEURAL_CREST	CNS	Medulloblastoma	Large cell medulloblastoma	CNS-Medullo	11													
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9823/3 Chronic lymphocytic leukemia/small lymphocytic lymphoma	100	MESODERM	Lymphoid	Chronic lymphocytic leukemia	Chronic lymphocytic leukemia	Lymph-CLL	9	100												
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9861/3 Acute myeloid leukemia	43	MESODERM	Myeloid	Acute myeloid leukemia	Acute myeloid leukemia	Myeloid-AML	11	52												
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	"9872/3 Acute myeloid leukemia, minimal differentiation"	9	MESODERM	Myeloid	Acute myeloid leukemia	Acute myeloid leukemia	Myeloid-AML	11													
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	"9945/3 Chronic myelomonocytic leukemia, NOS"	1	MESODERM	Myeloid	Myelodysplastic syndrome	Chronic myelomonocytic leukemia	Myeloid-MDS	11	30												
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9961/3 Myelosclerosis with myeloid metaplasia	1	MESODERM	Myeloid	Myeloproliferative neoplasm	Primary myelofibrosis	Myeloid-MPN	11	30												
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9982/3 Refractory anemia with sideroblasts	2	MESODERM	Myeloid	Myelodysplastic syndrome	Myelodysplastic syndrome with ring sideroblasts	Myeloid-MDS	11													
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9950/3 Polycythemia vera	28	MESODERM	Myeloid	Myeloproliferative neoplasm	Polycythemia vera	Myeloid-MPN	11													
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9741/3 Malignant mastocytosis	1	MESODERM	Myeloid	Myeloproliferative neoplasm	Systemic mastocytosis	Myeloid-MPN	11													
+"BLOOD, BONE MARROW, & HEMATOPOIETIC SYS"	9962/3 Essential thrombocythemia	27	MESODERM	Myeloid	Myeloproliferative neoplasm	Essential thrombocythemia	Myeloid-MPN	11													
+BONE & SOFT TISSUE	"8890/3 Leiomyosarcoma, NOS"	15	MESODERM	Bone/SoftTissue	"Sarcoma, soft tissue"	Leiomyosarcoma	SoftTissue-Leiomyo	18	15												
+BONE & SOFT TISSUE	"9180/3 Osteosarcoma, NOS"	40	MESODERM	Bone/SoftTissue	"Sarcoma, bone"	Osteosarcoma	Bone-Osteosarc	14	40												
+BONE & SOFT TISSUE	"9230/0 Chondroblastoma, NOS"	6	MESODERM	Bone/SoftTissue	"Cartilaginous neoplasm, benign, bone"	Chondroblastoma	Bone-Benign	11	18												
+BONE & SOFT TISSUE	9241/0 Chondromyxoid fibroma	3	MESODERM	Bone/SoftTissue	"Cartilaginous neoplasm, benign, bone"	Chrondromyxoid fibroma	Bone-Benign	11													
+BONE & SOFT TISSUE	9261/3 Adamantinoma of long bones	6	MESODERM	Bone/SoftTissue	"Bone neoplasm, epithelioid"	Adamantinoma	Bone-Epith	10													
+BONE & SOFT TISSUE	"9370/3 Chordoma, NOS"	3	MESODERM	Bone/SoftTissue	"Bone neoplasm, epithelioid"	Chordoma	Bone-Epith	10													
+BONE & SOFT TISSUE	"8990/3 Mesenchymoma, malignant"		MESODERM	Bone/SoftTissue	"Bone neoplasm, epithelioid"	Mesenchymoma	Bone-Epith	10													
+BONE & SOFT TISSUE	8858/3 Liposarcoma	19	MESODERM	Bone/SoftTissue	"Liposarcoma, soft tissue"	Liposarcoma	SoftTissue-Liposarc	19													
+BONE & SOFT TISSUE	9262/0 Osteofibrous dysplasia		MESODERM	Bone/SoftTissue	"Osteofibrous dysplasia, benign, bone"	Osteofibrous dysplasia	Bone-Benign														
+BONE & SOFT TISSUE	9200/0 Osteoblastoma		MESODERM	Bone/SoftTissue	"Osteoblastoma, benign, bone"	Osteoblastoma	Bone-Benign														
+BREAST	8022/3 Pleiomorphic carcinoma	2	ECTODERM	Breast	Lobular carcinoma	Lobular carcinoma	Breast-LobularCA	16	201												
+BREAST	8480/3 Mucinous adenocarcinoma	2	ECTODERM	Breast	Adenocarcinoma	Mucinous adenocarcinoma	Breast-AdenoCA	14													
+BREAST	"8500/3 Infiltrating duct carcinoma, NOS"	181	ECTODERM	Breast	Adenocarcinoma	Infiltrating duct carcinoma	Breast-AdenoCA	14													
+BREAST	8503/3 Intraductal papillary adenocarcinoma with invasion	1	ECTODERM	Breast	Adenocarcinoma	Intraductal papillary adenocarcinoma with invasion	Breast-AdenoCA	14													
+BREAST	8507/3 Duct micropapillary carcinoma	3	ECTODERM	Breast	In situ adenocarcinoma	Duct micropapillary carcinoma	Breast-DCIS	11													
+BREAST	"8510/3 Medullary carcinoma, NOS"	1	ECTODERM	Breast	Adenocarcinoma	Medullary carcinonoma	Breast-AdenoCA	14													
+BREAST	"8520/3 Lobular carcinoma, NOS"	11	ECTODERM	Breast	Lobular carcinoma	Lobular carcinoma	Breast-LobularCA	16													
+CERVIX UTERI	"8070/3 Squamous cell carcinoma, NOS"	18	MESODERM	Cervix	Squamous cell carcinoma	Squamous Cell Carcinoma	Cervix-SCC	10	18												
+CERVIX UTERI	"8140/3 Adenocarcinoma, NOS"	2	MESODERM	Cervix	Adenocarcinoma	Adenocarcinoma	Cervix-AdenoCA	14													
+ESOPHAGUS	"8140/3 Adenocarcinoma, NOS"	92	ENDODERM	Esophagus	Adenocarcinoma	Adenocarcinoma	Eso-AdenoCA	11	92												
+GALLBLADDER & EXTRAHEPATIC BILE DUCTS	8160/3 Cholangiocarcinoma	4	ENDODERM	Biliary	Adenocarcinoma	Cholangiocarcinoma	Biliary-AdenoCA	15	12												
+GALLBLADDER & EXTRAHEPATIC BILE DUCTS	"8260/3 Papillary adenocarcinoma, NOS"	8	ENDODERM	Biliary	Adenocarcinoma	"Cholangiocarcinoma, papillary"	Biliary-AdenoCA	15													
+"GUM, FLOOR OF MOUTH, & OTHER MOUTH"	"8070/3 Squamous cell carcinoma, NOS"	57	MESODERM	Head/Neck	Squamous cell carcinoma	Squamous cell carcinoma	Head-SCC	8													
+KIDNEY	"8050/3 Papillary carcinoma, NOS"	34	MESODERM	Kidney	Renal cell carcinoma (proximal tubules)	"Adenocarcinoma, papillary type"	Kidney-RCC	10	218												
+KIDNEY	"8310/3 Clear cell adenocarcinoma, NOS"	135	MESODERM	Kidney	Renal cell carcinoma (proximal tubules)	"Adenocarcinoma, clear cell type"	Kidney-RCC	10													
+KIDNEY	"8317/3 Renal cell carcinoma, chromophobe type"	49	MESODERM	Kidney	Renal cell carcinoma (distal tubules)	"Adenocarcinoma, chromophobe type"	Kidney-ChRCC	12													
+"LARGE INTESTINE, (EXCL. APPENDIX)"	"8140/3 Adenocarcinoma, NOS"	35	ENDODERM	Colon/Rectum	Adenocarcinoma	Adenocarcinoma	ColoRect-AdenoCA	16	62												
+"LARGE INTESTINE, (EXCL. APPENDIX)"	8480/3 Mucinous adenocarcinoma	11	ENDODERM	Colon/Rectum	Adenocarcinoma	"Adenocarcinoma, mucinous"	ColoRect-AdenoCA	16													
+LIVER	8160/3 Cholangiocarcinoma	23	ENDODERM	Biliary	Adenocarcinoma	Cholangiocarcinoma	Biliary-AdenoCA	15													
+LIVER	"8170/3 Hepatocellular carcinoma, NOS"	328	ENDODERM	Liver	Hepatocellular carcinoma	Hepatocellular carcinoma	Liver-HCC	9	336												
+LIVER	8180/3 Comb. hepatocel. carcinoma & cholangiocarcinoma	8	ENDODERM	Liver	Hepatocellular carcinoma	Combined hepatocellular + cholangiocarcinoma	Liver-HCC	9													
+LIVER	"8171/3 Hepatocellular carcinoma, fibrolamellar"	1	ENDODERM	Liver	Hepatocellular carcinoma	Fibrolamellar hepatocellular carcinoma	Liver-HCC	9													
+LUNG & BRONCHUS	"8050/3 Papillary carcinoma, NOS"	2	ENDODERM	Lung	Adenocarcinoma	"Adenocarcinoma, invasive"	Lung-AdenoCA	12	40												
+LUNG & BRONCHUS	"8140/3 Adenocarcinoma, NOS"	24	ENDODERM	Lung	Adenocarcinoma	"Adenocarcinoma, invasive"	Lung-AdenoCA	12													
+LUNG & BRONCHUS	8255/3 Adenocarcinoma with mixed subtypes	12	ENDODERM	Lung	Adenocarcinoma	"Adenocarcinoma, invasive"	Lung-AdenoCA	12													
+LUNG & BRONCHUS	8480/3 Mucinous adenocarcinoma	2	ENDODERM	Lung	Adenocarcinoma	"Adenocarcinoma, invasive, mucinous"	Lung-AdenoCA	12													
+LUNG & BRONCHUS	"8252/3 Bronchiolo-alveolar carcinoma, non-mucinous"	2	ENDODERM	Lung	Adenocarcinoma	"Adenocarcinoma, in situ"	Lung-AdenoCA	12													
+LUNG & BRONCHUS	"8070/3 Squamous cell carcinoma, NOS"	47	ENDODERM	Lung	Squamous cell carcinoma	Squamous cell carcinoma	Lung-SCC	8	48												
+LUNG & BRONCHUS	8083/3 Basaloid squamous cell carcinoma	1	ENDODERM	Lung	Squamous cell carcinoma	Basaloid squamous cell carcinoma	Lung-SCC	8													
+LYMPH NODES	"9590/3 Malignant lymphoma, NOS"	2	MESODERM	Lymphoid	"Lymphoma, NOS"	"Malignant lymphoma, NOS"	Lymph-NOS	9	107												
+LYMPH NODES	9679/3 Mediastinal large B-cell lymphoma	1	MESODERM	Lymphoid	Mature B-cell lymphoma	Diffuse large B-cell lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9680/3 ML, large B-cell, diffuse"	48	MESODERM	Lymphoid	Mature B-cell lymphoma	Diffuse large B-cell lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9687/3 Burkitt lymphoma, NOS"	17	MESODERM	Lymphoid	Mature B-cell lymphoma	Burkitt lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9691/3 Follicular lymphoma, grade 2"	4	MESODERM	Lymphoid	Mature B-cell lymphoma	Follicular lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9695/3 Follicular lymphoma, grade 1"	27	MESODERM	Lymphoid	Mature B-cell lymphoma	Follicular lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9698/3 Follicular lymphoma, grade 3"	6	MESODERM	Lymphoid	Mature B-cell lymphoma	Follicular lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9699/3 Marginal zone B-cell lymphoma, NOS"	2	MESODERM	Lymphoid	Mature B-cell lymphoma	Marginal zone B-cell lymphoma	Lymph-BNHL	10													
+LYMPH NODES	"9971/1 Post transplant lymphoproliferative disorder, NOS"	1	MESODERM	Lymphoid	Mature B-cell lymphoma	"Post-transplant lymphoproliferative disorder, early lesion"	Lymph-BNHL	10	1												
+OVARY	"8140/3 Adenocarcinoma, NOS"	11	MESODERM	Ovary	Adenocarcinoma	Adenocarcinoma	Ovary-AdenoCA	13	118												
+OVARY	"8441/3 Serous cystadenocarcinoma, NOS"	107	MESODERM	Ovary	Adenocarcinoma	Serous cystadenocarcinoma	Ovary-AdenoCA	13													
+PANCREAS	"8021/3 Carcinoma, anaplastic type, NOS"	2	ENDODERM	Pancreas	Adenocarcinoma	Anaplastic carcinoma	Panc-AdenoCA	12													
+PANCREAS	"8140/3 Adenocarcinoma, NOS"	19	ENDODERM	Pancreas	Adenocarcinoma	Adenocarcinoma	Panc-AdenoCA	12													
+PANCREAS	"8453/3 Intraductal papillary-mucinous carcinoma, invasive"	8	ENDODERM	Pancreas	Adenocarcinoma	Invasive carcinoma arising in IPMN	Panc-AdenoCA	12													
+PANCREAS	"8470/3 Mucinous cystadenocarcinoma, NOS"	1	ENDODERM	Pancreas	Adenocarcinoma	"Adenocarcinoma, mucinous"	Panc-AdenoCA	12													
+PANCREAS	8480/3 Mucinous adenocarcinoma	5	ENDODERM	Pancreas	Adenocarcinoma	"Adenocarcinoma, mucinous"	Panc-AdenoCA	12													
+PANCREAS	"8500/3 Infiltrating duct carcinoma, NOS"	197	ENDODERM	Pancreas	Adenocarcinoma	Pancreatic ductal carcinoma	Panc-AdenoCA	12													
+PANCREAS	8550/3 Acinar cell carcinoma	2	ENDODERM	Pancreas	Adenocarcinoma	Acinar cell carcinoma	Panc-AdenoCA	12													
+PANCREAS	8560/3 Adenosquamous carcinoma	5	ENDODERM	Pancreas	Adenocarcinoma	"Carcinoma, adenosquamous"	Panc-AdenoCA	12													
+PANCREAS	8246/3 Neuroendocrine carcinoma	31	ENDODERM	Pancreas	Neuroendocrine tumor	Neoroendocrine carcinoma	Panc-Endocrine	14	31												
+PROSTATE GLAND	"8140/3 Adenocarcinoma, NOS"	278	ENDODERM	Prostate	Adenocarcinoma	Adenocarcinoma	Prost-AdenoCA	13	298												
+PROSTATE GLAND	8550/3 Acinar cell carcinoma	20	ENDODERM	Prostate	Adenocarcinoma	Adenocarcinoma	Prost-AdenoCA	13													
+RECTUM	"8140/3 Adenocarcinoma, NOS"	15	ENDODERM	Colon/Rectum	Adenocarcinoma	Adenocarcinoma	ColoRect-AdenoCA	16	62												
+RECTUM	8480/3 Mucinous adenocarcinoma	1	ENDODERM	Colon/Rectum	Adenocarcinoma	Mucinous adenocarcinoma	ColoRect-AdenoCA	16													
+SKIN	"8720/3 Malignant melanoma, NOS"	70	NEURAL_CREST	Skin	Melanoma	Malignant melanoma	Skin-Melanoma	13	70												
+STOMACH	"8050/3 Papillary carcinoma, NOS"	2	ENDODERM	Stomach	Adenocarcinoma	"Adenocarcinoma, papillary"	Stomach-AdenoCA	15	35												
+STOMACH	"8140/3 Adenocarcinoma, NOS"	14	ENDODERM	Stomach	Adenocarcinoma	Adenocarcinoma	Stomach-AdenoCA	15													
+STOMACH	"8144/3 Adenocarcinoma, intestinal type"	4	ENDODERM	Stomach	Adenocarcinoma	"Adenocarcinoma, tubular"	Stomach-AdenoCA	15													
+STOMACH	"8145/3 Carcinoma, diffuse type"	8	ENDODERM	Stomach	Adenocarcinoma	"Adenocarcinoma, poorly cohesive"	Stomach-AdenoCA	15													
+STOMACH	8211/3 Tubular adenocarcinoma	4	ENDODERM	Stomach	Adenocarcinoma	"Adenocarcinoma, tubular"	Stomach-AdenoCA	15													
+STOMACH	8480/3 Mucinous adenocarcinoma	3	ENDODERM	Stomach	Adenocarcinoma	"Adenocarcinoma, mucinous"	Stomach-AdenoCA	15													
+STOMACH	8260/3 Papillary adenocarcinoma	4	ENDODERM	Stomach	Adenocarcinoma	"Adenocarcinoma, papillary"	Stomach-AdenoCA	15													
+STOMACH	XXXX/X [histology field absent]	4	ENDODERM	Stomach				0													
+THYROID GLAND	"8050/3 Papillary carcinoma, NOS"	31	ENDODERM	Thyroid	Adenocarcinoma	"Adenocarcinoma, classical type"	Thy-AdenoCA	11	50												
+THYROID GLAND	"8340/3 Papillary carcinoma, follicular variant"	18	ENDODERM	Thyroid	Adenocarcinoma	"Adenocarcinoma, follicular type"	Thy-AdenoCA	11													
+THYROID GLAND	"8344/3 Papillary carcinoma, columnar cell"	1	ENDODERM	Thyroid	Adenocarcinoma	"Adenocarcinoma, columnar cell type"	Thy-AdenoCA	11													
+URINARY BLADDER	"8120/3 Transitional cell carcinoma, NOS"	15	ENDODERM	Bladder	Transitional cell carcinoma	Transitional cell carcinoma	Bladder-TCC	11	23												
+URINARY BLADDER	8130/3 Papillary trans. cell carcinoma	8	ENDODERM	Bladder	Transitional cell carcinoma	"Transitional cell carcinoma, papillary"	Bladder-TCC	11													
+"UTERUS, NOS"	8380/3 Endometrioid carcinoma	31	MESODERM	Uterus	Adenocarcinoma	"Adenocarcinoma, endometrioid"	Uterus-AdenoCA	14	51												
+"UTERUS, NOS"	"8441/3 Serous cystadenocarcinoma, NOS"	20	MESODERM	Uterus	Adenocarcinoma	Serous cystadenocarcinoma	Uterus-AdenoCA	14													
+																					
+	TOTAL SPECIMENS	2661																			

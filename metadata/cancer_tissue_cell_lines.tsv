@@ -1,0 +1,32 @@
+cancer_type	tissue	cell_lines	POG_cohort
+Biliary-AdenoCA	Biliary	
+Bladder-TCC	Bladder	
+Bone-Leiomyo	Bone	
+Bone-Osteosarc	Bone	
+Breast-AdenoCa	Breast	MCF-7	BRCA
+Breast-LobularCa	Breast	MCF-7	BRCA
+Cervic-SCC	Cervix	
+CNS-GBM	CNS	
+CNS-Medullo	CNS	
+CNS-Oligo	CNS	
+CNS-PiloAstro	CNS	
+ColoRect-AdenoCA	Colon	HCT116	COLO
+Eso-AdenoCa	Esophagus	
+Head-SCC	Head	
+Kidney-ChRCC	Kidney	
+Kidney-RCC	Kidney	
+Liver-HCC	Liver	HepG2	HCC
+Lung-AdenoCA	Lung	A549	LUNG
+Lung-SCC	Lung	A549	LUNG
+Lymph-BNHL	Lymphoid	
+Lymph-CLL	Lymphoid	
+Myeloid-AML	Myeloid	
+Myeloid-MPN	Myeloid	
+Ovary-AdenoCA	Ovary	
+Panc-AdenoCA	Pancreas	Panc1	PANC
+Panc-Endocrine	Pancreas	Panc1	PANC
+Prost-AdenoCA	Prostate	PC-3	PRAD
+Skin-Melanoma	Skin	
+Stomach-AdenoCA	Stomach	
+Thy-AdenoCA	Thyroid	
+Uterus-AdenoCA	Uterus	

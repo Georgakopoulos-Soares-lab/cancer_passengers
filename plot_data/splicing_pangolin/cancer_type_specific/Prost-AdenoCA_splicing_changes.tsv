@@ -1,0 +1,31 @@
+pos	score	driver_status	count	gene	splice_gene
+-25	-0.1599999964237213	Drivers	1	ATM	ATM
+-32	-0.15000000596046448	Drivers	1	ATM	ATM
+-5	-0.8600000143051147	Passengers in presence of driver	1	ATM	ATM
+0	-0.8100000023841858	Drivers	1	ATM	ATM
+24	0.30000001192092896	Drivers	1	ATM	ATM
+-32	0.17000000178813934	Passengers in absence of driver	1	CSMD3	CSMD3
+0	0.27000001072883606	Passengers in absence of driver	1	CSMD3	CSMD3
+3	-0.17000000178813934	Passengers in absence of driver	1	CSMD3	CSMD3
+50	-0.3100000023841858	Passengers in absence of driver	1	CSMD3	CSMD3
+-3	0.7200000286102295	Passengers in absence of driver	1	FAT3	FAT3
+-48	0.20999999344348907	Passengers in absence of driver	1	FAT3	FAT3
+2	0.5099999904632568	Passengers in absence of driver	1	FAT3	FAT3
+8	-0.6399999856948853	Passengers in absence of driver	1	FAT3	FAT3
+-3	0.15000000596046448	Passengers in absence of driver	1	FAT4	FAT4
+-17	-0.23999999463558197	Drivers	1	KMT2C	KMT2C
+1	0.75	Passengers in absence of driver	1	KMT2C	KMT2C
+-14	0.6600000262260437	Passengers in absence of driver	1	LRP1B	LRP1B
+-26	0.15000000596046448	Passengers in absence of driver	1	LRP1B	LRP1B
+-2	0.1599999964237213	Passengers in absence of driver	1	LRP1B	LRP1B
+-9	0.33000001311302185	Passengers in absence of driver	1	LRP1B	LRP1B
+0	-0.8399999737739563	Passengers in absence of driver	1	LRP1B	LRP1B
+1	-0.8100000023841858	Passengers in absence of driver	1	LRP1B	LRP1B
+2	0.7799999713897705	Passengers in absence of driver	1	LRP1B	LRP1B
+-3	-0.8199999928474426	Passengers in absence of driver	1	PTEN	PTEN
+-3	0.1899999976158142	Passengers in absence of driver	1	PTEN	PTEN
+2	-0.8600000143051147	Drivers	1	PTEN	PTEN
+6	0.20000000298023224	Drivers	1	PTEN	PTEN
+-2	-0.8600000143051147	Drivers	1	TP53	TP53
+1	0.4699999988079071	Drivers	1	TP53	TP53
+29	-0.25999999046325684	Passengers in absence of driver	1	CSMD3	nan

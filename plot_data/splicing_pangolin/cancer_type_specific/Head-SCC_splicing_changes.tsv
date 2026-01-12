@@ -1,0 +1,38 @@
+pos	score	driver_status	count	gene	splice_gene
+-19	0.3400000035762787	Drivers	1	CDKN2A	CDKN2A
+-19	0.6700000166893005	Drivers	1	CDKN2A	CDKN2A
+-2	-0.8299999833106995	Drivers	1	CDKN2A	CDKN2A
+-2	-0.8299999833106995	Drivers	1	CDKN2A	CDKN2A
+4	0.4099999964237213	Drivers	1	CDKN2A	CDKN2A
+-11	0.14000000059604645	Passengers in absence of driver	1	CSMD3	CSMD3
+-11	0.3100000023841858	Passengers in absence of driver	1	CSMD3	CSMD3
+-12	0.25	Passengers in absence of driver	1	CSMD3	CSMD3
+-28	0.30000001192092896	Passengers in absence of driver	1	CSMD3	CSMD3
+-3	0.25	Passengers in absence of driver	1	CSMD3	CSMD3
+2	0.14000000059604645	Passengers in absence of driver	1	CSMD3	CSMD3
+2	0.23000000417232513	Passengers in absence of driver	1	CSMD3	CSMD3
+5	-0.6399999856948853	Passengers in absence of driver	1	CSMD3	CSMD3
+-33	-0.15000000596046448	Drivers	1	FAT1	FAT1
+-10	-0.36000001430511475	Passengers in absence of driver	1	KMT2D	KMT2D
+-14	-0.800000011920929	Passengers in absence of driver	1	KMT2D	KMT2D
+-1	0.8100000023841858	Passengers in absence of driver	1	KMT2D	KMT2D
+5	-0.7599999904632568	Passengers in absence of driver	1	KMT2D	KMT2D
+-11	-0.27000001072883606	Passengers in absence of driver	1	LRP1B	LRP1B
+-1	0.3199999928474426	Passengers in absence of driver	1	LRP1B	LRP1B
+-27	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+18	0.1899999976158142	Passengers in absence of driver	1	LRP1B	LRP1B
+1	0.15000000596046448	Passengers in absence of driver	1	LRP1B	LRP1B
+37	0.1899999976158142	Passengers in absence of driver	1	LRP1B	LRP1B
+3	0.2800000011920929	Passengers in absence of driver	1	LRP1B	LRP1B
+5	0.5899999737739563	Passengers in absence of driver	1	LRP1B	LRP1B
+9	0.25999999046325684	Passengers in absence of driver	1	LRP1B	LRP1B
+-2	-0.8700000047683716	Drivers	1	NOTCH1	NOTCH1
+-8	0.7400000095367432	Drivers	1	NOTCH1	NOTCH1
+0	-0.23000000417232513	Drivers	1	NOTCH1	NOTCH1
+-3	0.30000001192092896	Passengers in absence of driver	1	PTPRT	PTPRT
+1	0.36000001430511475	Passengers in absence of driver	1	PTPRT	PTPRT
+37	0.14000000059604645	Passengers in absence of driver	1	PTPRT	PTPRT
+1	-0.8899999856948853	Drivers	1	TP53	TP53
+2	0.36000001430511475	Drivers	1	TP53	TP53
+5	-0.6899999976158142	Passengers in absence of driver	1	TP53	TP53
+1	0.5799999833106995	Drivers	5	CDKN2A	nan

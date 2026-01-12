@@ -1,0 +1,154 @@
+﻿Gene,Pathway
+STAG2,DNA damage/repair
+CDKN1A,Cell cycle
+TP53,Cell cycle
+TP53,DNA damage/repair
+NSD1,Chromatin remodeling/DNA methylation
+TET2,Chromatin remodeling/DNA methylation
+DAXX,Apoptosis
+ARID1B,Chromatin remodeling/DNA methylation
+CASP8,Apoptosis
+MEN1,Gene expression (Transcription)
+ERBB2,Receptor tyrosine kinase/growth factor signaling
+FAT4,HIPPO
+SMARCA4,Chromatin remodeling/DNA methylation
+BTG1,Cell cycle
+SPOP,Hedgehog signaling
+IL7R,Immune checkpoints
+SOX9,Beta-Catenin/WNT signaling
+TNFRSF14,PI3K/AKT1/MTOR
+BCOR,
+ARID1A,Chromatin remodeling/DNA methylation
+MAP3K1,MAP kinase signaling
+ASXL2,Protein metabolism/deubiquitination
+MYC,C-MYC signaling
+NOTCH1,NOTCH signaling
+NCOR1,NOTCH signaling
+SOCS1,JAK/STAT signaling
+AXIN1,Beta-Catenin/WNT signaling
+BIRC6,Apoptosis
+CDKN2A,Cell cycle
+KEAP1,NRF2
+DNMT3A,Chromatin remodeling/DNA methylation
+RBM10,RNA splicing
+RNF43,Beta-Catenin/WNT signaling
+RNF43,PI3K/AKT1/MTOR
+CSMD3,
+CREBBP,NOTCH signaling
+APC,Beta-Catenin/WNT signaling
+FOXA1,PI3K/AKT1/MTOR
+GATA3,Gene expression (Transcription)
+PTPRT,JAK/STAT signaling
+FGFR2,Receptor tyrosine kinase/growth factor signaling
+FGFR2,MAP kinase signaling
+CARD11,NF-kappaB
+SETD2,Chromatin remodeling/DNA methylation
+FAT1,HIPPO
+MDM2,DNA damage/repair
+RELA,NF-kappaB
+AMER1,Beta-Catenin/WNT signaling
+STAT6,JAK/STAT signaling
+RGS7,cAMP signaling
+NF1,Receptor tyrosine kinase/growth factor signaling
+NF1,MAP kinase signaling
+LATS1,HIPPO
+GNAS,cAMP signaling
+MAP2K4,MAP kinase signaling
+LRP1B,Hormone signaling
+P2RY8,Purinergic signaling
+TET1,Chromatin remodeling/DNA methylation
+CBFB,Gene expression (Transcription)
+ANK1,
+SMAD4,TGF-Beta signaling
+PPP2R1A,PI3K/AKT1/MTOR
+PPP2R1A,DNA damage/repair
+KDM6A,Chromatin remodeling/DNA methylation
+FGFR4,Receptor tyrosine kinase/growth factor signaling
+SF3B1,RNA splicing
+MET,Receptor tyrosine kinase/growth factor signaling
+HRAS,MAP kinase signaling
+RB1,Cell cycle
+BRAF,MAP kinase signaling
+CCND3,Cell cycle
+ELF3,NOTCH signaling
+DDX3X,Immune system
+NBEA,NOTCH signaling
+EZH2,Chromatin remodeling/DNA methylation
+POLQ,DNA damage/repair
+PBRM1,Chromatin remodeling/DNA methylation
+NFE2L2,NRF2
+CDH1,Cell adhesion
+RANBP2,Cell cycle
+SGK1,PI3K/AKT1/MTOR
+PREX2,PI3K/AKT1/MTOR
+MED12,Gene expression (Transcription)
+NOTCH2,NOTCH signaling
+BRCA2,DNA damage/repair
+UBR5,Protein degradation/ubiquitination
+PRKD1,Apoptosis
+CTNNA2,Cell adhesion
+AKAP9,MAP kinase signaling
+FBXO11,Protein degradation/ubiquitination
+HLA-A,Immune system
+PIK3R1,PI3K/AKT1/MTOR
+CYP2C8,
+TSC2,PI3K/AKT1/MTOR
+FUBP1,
+GLI1,Hedgehog signaling
+SLC34A2,
+FGFR3,Receptor tyrosine kinase/growth factor signaling
+CIC,
+IDH1,Metabolic signaling
+MCM7,Cell cycle
+STK11,PI3K/AKT1/MTOR
+FGFR1,Receptor tyrosine kinase/growth factor signaling
+ZNF208,Gene expression (Transcription)
+KIT,Receptor tyrosine kinase/growth factor signaling
+KRAS,MAP kinase signaling
+ROBO2,SLIT/ROBO signaling
+BCL2,Apoptosis
+CDK12,Cell cycle
+CDK12,DNA damage/repair
+BCL9,Beta-Catenin/WNT signaling
+TSC1,PI3K/AKT1/MTOR
+ERCC2,Nucleotide excision repair (NER)
+RNF213,Protein degradation/ubiquitination
+FAT3,HIPPO
+RBFOX1,Gene expression (Transcription)
+MECOM,PI3K/AKT1/MTOR
+ATRX,DNA damage/repair
+CTNNB1,Beta-Catenin/WNT signaling
+ATM,DNA damage/repair
+PTEN,PI3K/AKT1/MTOR
+PTPRD,
+EP300,NOTCH signaling
+BRCA1,DNA damage/repair
+VHL,Protein degradation/ubiquitination
+KDM5C,Chromatin remodeling/DNA methylation
+KMT2D,Chromatin remodeling/DNA methylation
+CTCF,
+ARHGAP35,PTK6 signaling
+TRRAP,C-MYC signaling
+SMAD2,TGF-Beta signaling
+ARID2,Chromatin remodeling/DNA methylation
+PALB2,DNA damage/repair
+SETDB1,Chromatin remodeling/DNA methylation
+BAP1,DNA damage/repair
+PIM1,JAK/STAT signaling
+USP9X,Protein metabolism/deubiquitination
+NRAS,MAP kinase signaling
+EGFR,Receptor tyrosine kinase/growth factor signaling
+SH2B3,Immune system
+MTOR,PI3K/AKT1/MTOR
+PCBP1,RNA splicing
+CHD4,Beta-Catenin/WNT signaling
+NACA,
+LIFR,MAP kinase signaling
+MYH11,
+PIK3CA,PI3K/AKT1/MTOR
+PTCH1,Hedgehog signaling
+FBXW7,NOTCH signaling
+CDH11,Beta-Catenin/WNT signaling
+COL1A1,Cell adhesion
+KMT2C,Chromatin remodeling/DNA methylation
+AKT1,PI3K/AKT1/MTOR

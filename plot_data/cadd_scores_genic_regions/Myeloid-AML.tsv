@@ -1,0 +1,12 @@
+index	gene	Strand	Variant_Classification	Tumor_Sample_Barcode	Patient_ID	mutation	mutation_loc	driver	driver_mutation_type	has_driver	genic_region	CADD_score_raw	CADD_score_PHRED	gene_length	CADD_score_normalized
+0	KIT	+	Missense_Mutation	1c300960-e51c-4477-8fdd-026c7e545dc4	DO49532	4:55599340-55599340:T:A	4:55599340:T:A	True	mutational	Drivers	exonic	4.565422	25.1	82797	0.0
+1	ASXL2	+	Missense_Mutation	58e2453c-bb58-43a3-9642-705ec0e0bdbd	DO49528	2:25966987-25966987:G:C	2:25966987:G:C	False		Passengers in absence of driver	exonic	3.608929	22.6	144764	0.4021814997929347
+3	NRAS	+	Missense_Mutation	9f298806-77b6-4c76-bd38-3343e1a3c6f0	DO221548	1:115256528-115256528:T:G	1:115256528:T:G	True	mutational	Drivers	exonic	3.618798	22.7	12426	0.0
+4	ASXL2	+	3'UTR	9f298806-77b6-4c76-bd38-3343e1a3c6f0	DO221548	2:25961714-25961714:A:G	2:25961714:A:G	False		Passengers in absence of driver	UTR3	0.293434	5.619	144764	0.0
+5	NRAS	+	Missense_Mutation	a68389d4-431f-4582-b4df-e8ad200aa3be	DO49529	1:115258744-115258744:C:T	1:115258744:C:T	True	mutational	Drivers	exonic	5.556126	29.6	12426	1.0
+6	ASXL2	+	Nonsense_Mutation	a68389d4-431f-4582-b4df-e8ad200aa3be	DO49529	2:25972954-25972954:G:A	2:25972954:G:A	False		Passengers in absence of driver	exonic	8.537212	37.0	144764	1.0
+7	KIT	+	Missense_Mutation	aff5793b-3197-4d1d-bf0a-9b0ded5f2937	DO49537	4:55599340-55599340:T:G	4:55599340:T:G	True	mutational	Drivers	exonic	4.977977	26.5	82797	1.0
+11	EZH2	+	Missense_Mutation	f8e61a02-92b1-947e-e040-11ac0d481b68	DO52751	7:148506433-148506433:A:C	7:148506433:A:C	False		Passengers in absence of driver	exonic	4.440051	24.8	76939	0.0
+12	EZH2	+	Missense_Mutation	f8e61a02-92b1-947e-e040-11ac0d481b68	DO52751	7:148508788-148508788:C:T	7:148508788:C:T	False		Passengers in absence of driver	exonic	5.691872	31.0	76939	0.7828284660121316
+13	EZH2	+	Missense_Mutation	f8f0136b-09ec-d079-e040-11ac0c4842e7	DO52739	7:148507485-148507485:C:G	7:148507485:C:G	False		Passengers in absence of driver	exonic	6.039151	33.0	76939	1.0
+15	NRAS	+	Missense_Mutation	fa718a69-7d09-424b-90a3-4839ba7dc9b2	DO49533	1:115256530-115256530:G:T	1:115256530:G:T	True	mutational	Drivers	exonic	5.325247	28.3	12426	0.8808260655913713

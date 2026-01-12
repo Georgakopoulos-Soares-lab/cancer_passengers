@@ -1,0 +1,16 @@
+index	gene	Strand	Variant_Classification	Tumor_Sample_Barcode	Patient_ID	mutation	mutation_loc	driver	driver_mutation_type	has_driver	genic_region	CADD_score_raw	CADD_score_PHRED	gene_length	CADD_score_normalized
+0	CDH1	+	Nonsense_Mutation	f7d77a03-28a0-f446-e040-11ac0c4866fb	DO220820	16:68844175-68844175:C:T	16:68844175:C:T	True	CNA, mutational	Drivers	exonic	9.925922	41.0	98324	1.0
+1	PIK3CA	+	Missense_Mutation	f7d77a03-28a0-f446-e040-11ac0c4866fb	DO220820	3:178952085-178952085:A:G	3:178952085:A:G	True	mutational	Drivers	exonic	3.061232	21.0	91980	0.543141672506851
+2	CDH1	+	Nonsense_Mutation	fc8130e0-0fde-b756-e040-11ac0c48328b	DO218167	16:68772218-68772218:C:T	16:68772218:C:T	True	mutational	Drivers	exonic	8.292136	36.0	98324	0.8369419558090749
+3	TP53	+	Nonsense_Mutation	fc8130e0-a38a-23b9-e040-11ac0c48327f	DO218269	17:7578382-7578382:G:C	17:7578382:G:C	True	CNA, mutational	Drivers	exonic	7.55072	35.0	25760	0.7869824727109626
+5	CDH1	+	Intron	fc8130e0-ad63-b804-e040-11ac0d485e10	DO218488	16:68862212-68862212:G:T	16:68862212:G:T	False		Passengers in absence of driver	intronic	2.166711	17.47	98324	0.22560129042315707
+6	PIK3CA	+	Intron	fc8130e0-ad63-b804-e040-11ac0d485e10	DO218488	3:178921858-178921858:A:G	3:178921858:A:G	False		Passengers in absence of driver	intronic	0.078703	2.779	91980	0.02357361445655103
+7	TP53	+	Missense_Mutation	47b5d831-5287-4f62-b17a-6e5eff2e4184	DO1537	17:7577539-7577539:G:A	17:7577539:G:A	True	CNA, mutational	Drivers	exonic	5.767921	32.0	25760	0.10468994096336952
+8	TP53	+	Nonsense_Mutation	47b5d831-5287-4f62-b17a-6e5eff2e4184	DO1537	17:7579346-7579346:A:T	17:7579346:A:T	True	CNA, mutational	Drivers	exonic	8.107325	36.0	25760	1.0
+9	TP53	+	Missense_Mutation	6dbc5c31-043b-40e9-bf1a-e7b4ec351b4d	DO2647	17:7577543-7577543:C:T	17:7577543:C:T	True	CNA, mutational	Drivers	exonic	5.494371	29.2	25760	0.0
+10	PIK3CA	+	Intron	6dbc5c31-043b-40e9-bf1a-e7b4ec351b4d	DO2647	3:178910188-178910188:G:T	3:178910188:G:T	False		Passengers in absence of driver	intronic	-0.056619	1.441	91980	0.0
+12	PIK3CA	+	Missense_Mutation	7b0b60c7-5fa0-440e-937f-8d82119330d6	DO1281	3:178952085-178952085:A:G	3:178952085:A:G	True	mutational	Drivers	exonic	3.061232	21.0	91980	0.543141672506851
+14	CDH1	+	Intron	7cdbe0e8-f614-4f54-b864-fd6b39e8ef1c	DO4018	16:68780148-68780148:G:A	16:68780148:G:A	False		Passengers in absence of driver	intronic	-0.093737	1.191	98324	0.0
+15	CDH1	+	Intron	7cdbe0e8-f614-4f54-b864-fd6b39e8ef1c	DO4018	16:68826020-68826020:C:A	16:68826020:C:A	False		Passengers in absence of driver	intronic	0.011171	2.025	98324	0.010470216601183732
+17	PIK3CA	+	Missense_Mutation	98bb3025-0637-4106-8621-12df7b5d662f	DO6144	3:178936091-178936091:G:A	3:178936091:G:A	True	mutational	Drivers	exonic	5.683782	31.0	91980	1.0
+19	PIK3CA	+	Missense_Mutation	f9f04e42-63a2-4ee1-ade4-9e5bb5c20cdd	DO3500	3:178952085-178952085:A:G	3:178952085:A:G	True	mutational	Drivers	exonic	3.061232	21.0	91980	0.543141672506851

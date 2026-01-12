@@ -1,0 +1,14 @@
+index	gene	Strand	Variant_Classification	Tumor_Sample_Barcode	Patient_ID	mutation	mutation_loc	driver	driver_mutation_type	has_driver	genic_region	CADD_score_raw	CADD_score_PHRED	gene_length	CADD_score_normalized
+0	TP53	+	Missense_Mutation	1e8ae8dd-74c1-44d5-a74e-bfdce801c736	DO220468	17:7574017-7574017:C:T	17:7574017:C:T	True	mutational	Drivers	exonic	3.641948	22.7	25760	0.01864279206743953
+1	TP53	+	Missense_Mutation	1e8ae8dd-74c1-44d5-a74e-bfdce801c736	DO220468	17:7578403-7578403:C:A	17:7578403:C:A	True	mutational	Drivers	exonic	5.654699	31.0	25760	0.4171061920518395
+2	TP53	+	Missense_Mutation	24f887e1-ce82-40f3-9674-11102bd076c0	DO220519	17:7578507-7578507:G:C	17:7578507:G:C	True	CNA, mutational	Drivers	exonic	3.808785	23.2	25760	0.05167143707280643
+10	MTOR	+	Missense_Mutation	345a06d6-fa5c-4674-a847-88a6b537cf3c	DO220535	1:11174395-11174395:A:C	1:11174395:A:C	False		Passengers in absence of driver	exonic	5.199056	27.6	155973	1.0
+11	MTOR	+	Intron	58c7e9c3-1345-48c0-a758-0887358b8696	DO220490	1:11299004-11299004:G:T	1:11299004:G:T	False		Passengers in absence of driver	intronic	-0.575656	0.122	155973	0.0
+12	MTOR	+	Missense_Mutation	97c1a300-978d-4df1-9e97-ce2f92b9eff1	DO220358	1:11187847-11187847:A:G	1:11187847:A:G	False		Passengers in absence of driver	exonic	5.04334	26.8	155973	0.9730348457204446
+13	TP53	+	Missense_Mutation	9a90f951-ad96-4883-b97f-ac43395dae5d	DO220423	17:7578396-7578396:G:T	17:7578396:G:T	True	CNA, mutational	Drivers	exonic	3.547778	22.5	25760	0.0
+15	KMT2D	+	3'UTR	a3deafcb-b54f-4b7e-89ac-c92c16fb919f	DO220478	12:49413970-49413970:A:G	12:49413970:A:G	False		Passengers in absence of driver	UTR3	2.222519	17.7	40800	0.0
+18	KMT2D	+	Missense_Mutation	cdf313c8-59f9-41c6-9bd2-f47cb4287da5	DO220357	12:49436390-49436390:T:C	12:49436390:T:C	False		Passengers in absence of driver	exonic	2.393667	18.39	40800	0.13390039227835968
+19	KMT2D	+	Missense_Mutation	d648c804-4eaf-4252-8b6f-13378158a07d	DO220449	12:49432249-49432249:C:A	12:49432249:C:A	False		Passengers in absence of driver	exonic	3.500693	22.3	40800	1.0
+20	TSC2	+	Missense_Mutation	e9032df3-8692-4146-a867-b9b64c9b310a	DO220349	16:2113034-2113034:A:T	16:2113034:A:T	False		Passengers in absence of driver	exonic	5.024308	26.7	41251	0.0
+21	TP53	+	Nonsense_Mutation	e9032df3-8692-4146-a867-b9b64c9b310a	DO220349	17:7577064-7577064:T:A	17:7577064:T:A	True	CNA, mutational	Drivers	exonic	8.59906	37.0	25760	1.0
+22	TSC2	+	Missense_Mutation	f38fc6ac-2af8-4d89-a514-4e2c5fdf08de	DO220350	16:2129290-2129290:G:A	16:2129290:G:A	False		Passengers in absence of driver	exonic	5.304738	28.2	41251	1.0

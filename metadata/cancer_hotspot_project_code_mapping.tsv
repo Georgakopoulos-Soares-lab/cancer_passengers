@@ -1,0 +1,32 @@
+Organ_Types	Project_Code
+adrenalgland	
+ampullaofvater	
+biliarytract	Biliary-AdenoCA
+bladder	Bladder-TCC
+blood	Myeloid-MPN, Myeloid-AML, Myeloid-MDS
+bone	Bone-Osteosarc, Bone-Leiomyo, Bone-Epith, Bone-Cart
+bowel	ColoRect-AdenoCA
+breast	Breast-AdenoCa, Breast-LobularCa, Breast-DCIS
+cervix	Cervix-SCC, Cervix-AdenoCA
+cnsbrain	CNS-Medullo, CNS-PiloAstro, CNS-GBM, CNS-Oligo
+esophagusstomach	Eso-AdenoCa, Stomach-AdenoCA
+eye	
+headandneck	Head-SCC
+kidney	Kidney-RCC, Kidney-ChRCC
+liver	Liver-HCC
+lung	Lung-SCC, Lung-AdenoCA
+lymph	Lymph-BNHL, Lymph-CLL, Lymph-NOS
+ovaryfallopiantube	Ovary-AdenoCA
+pancreas	Panc-AdenoCA, Panc-Endocrine
+penis	
+peritoneum	
+pleura	
+prostate	Prost-AdenoCA
+skin	Skin-Melanoma
+softtissue	
+testis	
+thymus	
+thyroid	Thy-AdenoCA
+unk	
+uterus	Uterus-AdenoCA
+vulvavagina	

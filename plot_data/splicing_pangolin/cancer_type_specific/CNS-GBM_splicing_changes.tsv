@@ -1,0 +1,16 @@
+pos	score	driver_status	count	gene	splice_gene
+44	-0.5699999928474426	Drivers	1	ATRX	ATRX
+34	0.14000000059604645	Drivers	1	IDH1	IDH1
+-18	-0.4300000071525574	Passengers in absence of driver	1	MED12	MED12
+-5	-0.8199999928474426	Passengers in absence of driver	1	PTEN	PTEN
+0	-0.6299999952316284	Drivers	1	PTEN	PTEN
+1	-0.8899999856948853	Drivers	1	PTEN	PTEN
+2	0.8500000238418579	Drivers	1	PTEN	PTEN
+-10	-0.33000001311302185	Drivers	1	RB1	RB1
+-5	-0.6399999856948853	Passengers in absence of driver	1	RB1	RB1
+34	0.14000000059604645	Passengers in absence of driver	1	RB1	RB1
+-29	-0.15000000596046448	Passengers in absence of driver	1	TERT	TERT
+2	0.3100000023841858	Passengers in absence of driver	1	TERT	TERT
+2	0.49000000953674316	Passengers in absence of driver	1	TERT	TERT
+-1	-0.8899999856948853	Drivers	2	TP53	TP53
+-22	0.7599999904632568	Drivers	2	TP53	TP53

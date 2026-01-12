@@ -1,0 +1,5 @@
+pos	score	driver_status	count	gene	splice_gene
+-6	-0.3100000023841858	Passengers in absence of driver	1	BRAF	BRAF
+1	-0.8500000238418579	Drivers	1	NF1	NF1
+23	-0.5600000023841858	Drivers	1	NF1	NF1
+2	0.5099999904632568	Drivers	1	NF1	NF1

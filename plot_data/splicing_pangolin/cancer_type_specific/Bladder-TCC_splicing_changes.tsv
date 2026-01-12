@@ -1,0 +1,19 @@
+pos	score	driver_status	count	gene	splice_gene
+3	0.3700000047683716	Passengers in absence of driver	1	BIRC6	BIRC6-AS2
+-2	0.14000000059604645	Drivers	1	CDKN1A	CDKN1A
+36	0.1599999964237213	Passengers in absence of driver	1	ELF3	ELF3
+3	-0.7599999904632568	Passengers in absence of driver	1	ELF3	ELF3
+1	-0.8500000238418579	Drivers	1	KDM6A	KDM6A
+2	0.27000001072883606	Drivers	1	KDM6A	KDM6A
+-47	-0.1599999964237213	Passengers in absence of driver	1	KMT2C	KMT2C
+-15	-0.3799999952316284	Passengers in presence of driver	1	KMT2D	KMT2D
+-41	-0.18000000715255737	Drivers	1	KMT2D	KMT2D
+13	-0.3100000023841858	Passengers in absence of driver	1	KMT2D	KMT2D
+4	0.7200000286102295	Passengers in absence of driver	1	KMT2D	KMT2D
+-18	0.18000000715255737	Passengers in absence of driver	1	PREX2	PREX2
+23	-0.3100000023841858	Passengers in absence of driver	1	PREX2	PREX2
+-27	-0.23000000417232513	Drivers	1	RB1	RB1
+-1	0.3799999952316284	Passengers in presence of driver	1	STAG2	STAG2
+1	0.18000000715255737	Drivers	1	TP53	TP53
+2	0.44999998807907104	Passengers in absence of driver	1	TSC2	TSC2
+36	0.1599999964237213	Passengers in absence of driver	1	ELF3	nan

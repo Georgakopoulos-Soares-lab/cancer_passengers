@@ -1,0 +1,35 @@
+index	gene	Strand	Variant_Classification	Tumor_Sample_Barcode	Patient_ID	mutation	mutation_loc	driver	driver_mutation_type	has_driver	genic_region	CADD_score_raw	CADD_score_PHRED	gene_length	CADD_score_normalized
+0	TERT	+	5'Flank	13642cf8-9840-4a7d-a26a-95f65b2c70c3	DO38911	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+1	BRAF	+	Missense_Mutation	13642cf8-9840-4a7d-a26a-95f65b2c70c3	DO38911	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+2	USP9X	+	Intron	13642cf8-9840-4a7d-a26a-95f65b2c70c3	DO38911	X:41064096-41064096:T:C	X:41064096:T:C	False		Passengers in absence of driver	intronic	0.530174	8.17	150945	0.32321264714161313
+3	BRAF	+	Intron	178d0486-cb0d-4979-8bdf-bb3fe99149bd	DO39072	7:140509338-140509338:G:C	7:140509338:G:C	False		Passengers in absence of driver	intronic	0.764964	10.26	205438	0.12162314597566135
+4	TERT	+	5'Flank	1924d200-6929-4eef-8a7f-317f8fbab915	DO219585	5:1295172-1295172:C:A	5:1295172:C:A	True	mutational	Drivers	UTR5	0.240565	4.948	41923	0.6191032958467306
+5	TERT	+	5'Flank	1924d200-6929-4eef-8a7f-317f8fbab915	DO219585	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+6	BRAF	+	Missense_Mutation	1924d200-6929-4eef-8a7f-317f8fbab915	DO219585	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+7	BRAF	+	Intron	248fd0ed-f14c-40b8-9f14-e9c7adf16e22	DO48159	7:140541170-140541170:C:T	7:140541170:C:T	False		Passengers in absence of driver	intronic	0.402979	6.871	205438	0.05468428698654657
+8	TERT	+	5'Flank	2dd5eea1-42a1-4e8b-99ac-20399cc7e15c	DO39306	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+9	BRAF	+	Missense_Mutation	473fe833-fcc6-485e-93d2-95e662c3ef53	DO39084	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+10	BRAF	+	Missense_Mutation	546b97b0-ab82-42a1-bbd2-241523278ec3	DO40147	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+11	BRAF	+	Intron	546b97b0-ab82-42a1-bbd2-241523278ec3	DO40147	7:140590118-140590118:G:A	7:140590118:G:A	False	mutational	Passengers in presence of driver	intronic	0.107263	3.145	205438	0.0
+12	NRAS	+	Missense_Mutation	5c02d399-07af-4573-a568-bc1b256bc8f8	DO39886	1:115256529-115256529:T:C	1:115256529:T:C	True	mutational	Drivers	exonic	3.943286	23.5	12426	0.0
+13	TERT	+	5'Flank	5c02d399-07af-4573-a568-bc1b256bc8f8	DO39886	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+14	USP9X	+	Intron	5deeaa45-4c1b-4ab2-a487-93c548838f68	DO40496	X:41011450-41011450:C:T	X:41011450:C:T	False		Passengers in absence of driver	intronic	-3.225726	0.001	150945	0.0
+15	USP9X	+	Intron	62fceb56-8c6e-4d20-9d2f-5b7042854d23	DO39016	X:41026025-41026025:C:A	X:41026025:C:A	False		Passengers in absence of driver	intronic	-0.497878	0.173	150945	0.23474399560157488
+16	TERT	+	5'Flank	63ea274b-d42b-4787-9c54-8ee95ea376ec	DO39481	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+17	BRAF	+	Missense_Mutation	63ea274b-d42b-4787-9c54-8ee95ea376ec	DO39481	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+18	BRAF	+	Intron	63ea274b-d42b-4787-9c54-8ee95ea376ec	DO39481	7:140611419-140611419:C:A	7:140611419:C:A	False	mutational	Passengers in presence of driver	intronic	0.19392	4.327	205438	0.016024754350096603
+19	TERT	+	5'Flank	64c2e6a0-2341-49c4-a6dd-656e7bb505dd	DO40167	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+20	NRAS	+	Missense_Mutation	66eb4833-1b87-4fd9-a53d-26dc7ad6de29	DO38899	1:115256530-115256530:G:T	1:115256530:G:T	True	mutational	Drivers	exonic	5.325247	28.3	12426	1.0
+21	TERT	+	Intron	66eb4833-1b87-4fd9-a53d-26dc7ad6de29	DO38899	5:1287458-1287458:T:C	5:1287458:T:C	False	mutational	Passengers in presence of driver	intronic	0.18948	4.266	41923	0.4881181315159255
+22	TERT	+	5'Flank	66eb4833-1b87-4fd9-a53d-26dc7ad6de29	DO38899	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+23	BRAF	+	Missense_Mutation	7dfcfe29-3900-4d7b-8067-60c51584b0b1	DO38946	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+24	TERT	+	5'Flank	8845fce6-e2b4-4929-942b-57096b0bbafc	DO39847	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+25	BRAF	+	Missense_Mutation	8845fce6-e2b4-4929-942b-57096b0bbafc	DO39847	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+26	USP9X	+	Nonsense_Mutation	8845fce6-e2b4-4929-942b-57096b0bbafc	DO39847	X:40988337-40988337:G:T	X:40988337:G:T	False		Passengers in absence of driver	exonic	8.394797	37.0	150945	1.0
+27	TERT	+	5'Flank	a9c29edd-2ef1-46ef-93c6-796cf0332a2b	DO39610	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+28	BRAF	+	Missense_Mutation	a9c29edd-2ef1-46ef-93c6-796cf0332a2b	DO39610	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+30	TERT	+	5'Flank	add0b0f6-b4a8-4b73-b634-c3600dc567d5	DO39363	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0
+31	BRAF	+	Missense_Mutation	add0b0f6-b4a8-4b73-b634-c3600dc567d5	DO39363	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+32	BRAF	+	Missense_Mutation	b1753e9c-29d0-4955-89d2-949cdabd1211	DO38903	7:140453136-140453136:A:T	7:140453136:A:T	True	mutational	Drivers	exonic	5.514959	29.4	205438	1.0
+34	TERT	+	Intron	d692ecd0-2433-426b-9af2-a30c44a80f7c	DO39635	5:1276218-1276218:A:G	5:1276218:A:G	False	mutational	Passengers in presence of driver	intronic	-0.000889	1.908	41923	0.0
+35	TERT	+	5'Flank	d692ecd0-2433-426b-9af2-a30c44a80f7c	DO39635	5:1295228-1295228:G:A	5:1295228:G:A	True	mutational	Drivers	upstream	0.389117	6.721	41923	1.0

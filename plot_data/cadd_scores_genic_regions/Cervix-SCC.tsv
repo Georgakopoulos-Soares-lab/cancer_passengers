@@ -1,0 +1,16 @@
+index	gene	Strand	Variant_Classification	Tumor_Sample_Barcode	Patient_ID	mutation	mutation_loc	driver	driver_mutation_type	has_driver	genic_region	CADD_score_raw	CADD_score_PHRED	gene_length	CADD_score_normalized
+0	EP300	+	Nonsense_Mutation	047f9e4d-86b5-4943-aef5-68199bf29e8c	DO6314	22:41543909-41543909:C:T	22:41543909:C:T	True	mutational	Drivers	exonic	10.557433	44.0	88292	1.0
+1	EP300	+	IGR	047f9e4d-86b5-4943-aef5-68199bf29e8c	DO6314	22:41577277-41577277:C:T	22:41577277:C:T	False	mutational	Passengers in presence of driver	intergenic	-0.018107	1.751	88292	0.033283249450370755
+2	PIK3CA	+	Intron	047f9e4d-86b5-4943-aef5-68199bf29e8c	DO6314	3:178892997-178892997:G:C	3:178892997:G:C	False		Passengers in absence of driver	intronic	0.353562	6.325	91980	0.09839824287945846
+3	EP300	+	Intron	07d20658-3db4-47e7-877b-66536266edfc	DO48993	22:41561595-41561595:T:A	22:41561595:T:A	False		Passengers in absence of driver	intronic	0.076677	2.754	88292	0.041947514394203037
+4	EP300	+	Intron	07d20658-3db4-47e7-877b-66536266edfc	DO48993	22:41564132-41564132:C:T	22:41564132:C:T	False		Passengers in absence of driver	intronic	-0.382214	0.295	88292	0.0
+5	EP300	+	Intron	07d20658-3db4-47e7-877b-66536266edfc	DO48993	22:41570039-41570039:G:C	22:41570039:G:C	False		Passengers in absence of driver	intronic	-0.245562	0.56	88292	0.012491445107872312
+6	EP300	+	Intron	07d20658-3db4-47e7-877b-66536266edfc	DO48993	22:41571609-41571609:G:C	22:41571609:G:C	False		Passengers in absence of driver	intronic	0.764444	10.26	88292	0.10481672763298487
+8	PIK3CA	+	Missense_Mutation	43be43cb-a367-4a74-94e4-973acafcf576	DO49009	3:178936091-178936091:G:C	3:178936091:G:C	True	mutational	Drivers	exonic	4.797564	25.8	91980	0.8500970492790445
+9	EP300	+	Missense_Mutation	7bc3209f-b349-49bf-9b3d-44ef870b586f	DO6255	22:41565529-41565529:G:A	22:41565529:G:A	False		Passengers in absence of driver	exonic	5.774379	32.0	88292	0.5627780311375679
+10	MCM7	+	Intron	a67f4531-99ef-43df-82f5-f6abc4b11826	DO49001	7:99694121-99694121:G:A	7:99694121:G:A	False		Passengers in absence of driver	intronic	-0.369722	0.312	9213	0.0
+11	MCM7	+	Nonsense_Mutation	a67f4531-99ef-43df-82f5-f6abc4b11826	DO49001	7:99695255-99695255:G:A	7:99695255:G:A	False		Passengers in absence of driver	exonic	9.953245	41.0	9213	1.0
+12	MCM7	+	Nonsense_Mutation	e07991a4-0901-4ed1-8704-aa376565d862	DO6332	7:99696993-99696993:C:A	7:99696993:C:A	False		Passengers in absence of driver	exonic	8.703084	37.0	9213	0.878895185851122
+13	PIK3CA	+	Missense_Mutation	f658c350-fb89-4268-8a59-a07e365f4221	DO51592	3:178936091-178936091:G:A	3:178936091:G:A	True	mutational	Drivers	exonic	5.683782	31.0	91980	1.0
+14	PIK3CA	+	Intron	f658c350-fb89-4268-8a59-a07e365f4221	DO51592	3:178941780-178941780:G:A	3:178941780:G:A	False	mutational	Passengers in presence of driver	intronic	0.166796	3.956	91980	0.06680694762891062
+15	PIK3CA	+	Intron	f658c350-fb89-4268-8a59-a07e365f4221	DO51592	3:178950906-178950906:C:T	3:178950906:C:T	False	mutational	Passengers in presence of driver	intronic	-0.228163	0.609	91980	0.0

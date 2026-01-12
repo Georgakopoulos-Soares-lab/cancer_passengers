@@ -1,0 +1,4 @@
+pos	score	driver_status	count	gene	splice_gene
+-10	0.17000000178813934	Drivers	1	CDH1	CDH1
+-5	-0.75	Passengers in absence of driver	1	CDH1	CDH1
+-34	-0.17000000178813934	Drivers	1	TP53	TP53

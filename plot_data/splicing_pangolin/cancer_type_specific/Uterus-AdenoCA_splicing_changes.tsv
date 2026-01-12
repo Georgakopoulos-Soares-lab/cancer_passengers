@@ -1,0 +1,12 @@
+pos	score	driver_status	count	gene	splice_gene
+2	0.25999999046325684	Drivers	1	ARHGAP35	ARHGAP35
+40	-0.20000000298023224	Drivers	1	ARID1A	ARID1A
+-28	0.4699999988079071	Passengers in absence of driver	1	CSMD3	CSMD3
+-2	0.23999999463558197	Passengers in absence of driver	1	CSMD3	CSMD3
+0	0.15000000596046448	Passengers in absence of driver	1	CSMD3	CSMD3
+30	0.1899999976158142	Passengers in absence of driver	1	CSMD3	CSMD3
+8	0.23000000417232513	Passengers in absence of driver	1	CSMD3	CSMD3
+-37	-0.18000000715255737	Drivers	1	PIK3R1	PIK3R1
+-5	-0.8199999928474426	Passengers in absence of driver	1	PIK3R1	PIK3R1
+-2	-0.3700000047683716	Drivers	1	TP53	TP53
+1	0.18000000715255737	Drivers	2	TP53	TP53

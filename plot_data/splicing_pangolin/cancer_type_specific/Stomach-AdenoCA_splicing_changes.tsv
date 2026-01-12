@@ -1,0 +1,30 @@
+pos	score	driver_status	count	gene	splice_gene
+-4	0.15000000596046448	Passengers in absence of driver	1	ARID1B	ARID1B
+-17	0.17000000178813934	Passengers in absence of driver	1	CSMD3	CSMD3
+-46	0.14000000059604645	Passengers in absence of driver	1	CSMD3	CSMD3
+-6	0.18000000715255737	Passengers in absence of driver	1	CSMD3	CSMD3
+-8	0.46000000834465027	Passengers in absence of driver	1	CSMD3	CSMD3
+0	0.4000000059604645	Passengers in absence of driver	1	CSMD3	CSMD3
+1	0.1599999964237213	Passengers in absence of driver	1	CSMD3	CSMD3
+1	0.25	Passengers in absence of driver	1	CSMD3	CSMD3
+1	0.2800000011920929	Passengers in absence of driver	1	CSMD3	CSMD3
+1	0.30000001192092896	Passengers in absence of driver	1	CSMD3	CSMD3
+2	0.1899999976158142	Passengers in absence of driver	1	CSMD3	CSMD3
+2	0.6600000262260437	Passengers in absence of driver	1	CSMD3	CSMD3
+4	-0.4000000059604645	Passengers in absence of driver	1	CSMD3	CSMD3
+-23	0.14000000059604645	Passengers in absence of driver	1	LRP1B	LRP1B
+-32	0.17000000178813934	Passengers in absence of driver	1	LRP1B	LRP1B
+11	0.3400000035762787	Passengers in absence of driver	1	LRP1B	LRP1B
+12	0.1599999964237213	Passengers in absence of driver	1	LRP1B	LRP1B
+17	0.20000000298023224	Passengers in absence of driver	1	LRP1B	LRP1B
+19	0.18000000715255737	Passengers in absence of driver	1	LRP1B	LRP1B
+1	0.27000001072883606	Passengers in absence of driver	1	LRP1B	LRP1B
+1	0.4099999964237213	Passengers in absence of driver	1	LRP1B	LRP1B
+34	0.33000001311302185	Passengers in absence of driver	1	LRP1B	LRP1B
+5	0.17000000178813934	Passengers in absence of driver	1	LRP1B	LRP1B
+5	0.36000001430511475	Passengers in absence of driver	1	LRP1B	LRP1B
+41	-0.15000000596046448	Drivers	1	RELA	RELA
+-35	-0.6000000238418579	Drivers	2	TP53	TP53
+0	-0.7599999904632568	Drivers	1	TP53	TP53
+1	-0.36000001430511475	Drivers	1	TP53	TP53
+2	-0.8799999952316284	Drivers	1	TP53	TP53

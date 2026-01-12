@@ -1,0 +1,872 @@
+pos	score	driver_status	count
+39	0.14000000059604645	Passengers in absence of driver	1
+-1	-0.8399999737739563	Drivers	1
+-1	-0.9100000262260437	Drivers	1
+-25	0.14000000059604645	Drivers	1
+-5	0.7599999904632568	Passengers in presence of driver	1
+1	-0.8799999952316284	Drivers	1
+33	0.3400000035762787	Passengers in presence of driver	1
+37	0.8199999928474426	Drivers	1
+3	0.3199999928474426	Passengers in absence of driver	1
+5	0.1599999964237213	Passengers in presence of driver	1
+6	0.800000011920929	Drivers	1
+2	0.25999999046325684	Drivers	1
+-1	-0.8100000023841858	Drivers	1
+-1	-0.8899999856948853	Drivers	1
+-42	-0.15000000596046448	Drivers	1
+-4	0.20999999344348907	Passengers in absence of driver	1
+-8	0.15000000596046448	Drivers	1
+11	-0.800000011920929	Passengers in absence of driver	4
+1	-0.8700000047683716	Drivers	1
+1	0.7699999809265137	Passengers in absence of driver	4
+37	-0.2199999988079071	Drivers	1
+40	-0.20000000298023224	Drivers	1
+9	0.8500000238418579	Drivers	1
+-4	0.15000000596046448	Passengers in absence of driver	1
+-19	-0.36000001430511475	Drivers	1
+0	-0.4099999964237213	Drivers	1
+0	-0.7300000190734863	Drivers	1
+11	-0.1899999976158142	Drivers	1
+14	0.27000001072883606	Passengers in absence of driver	1
+1	-0.8799999952316284	Drivers	1
+2	-0.8600000143051147	Drivers	1
+2	0.5099999904632568	Passengers in absence of driver	1
+-10	-0.5199999809265137	Drivers	1
+-1	-0.8199999928474426	Drivers	1
+-25	-0.1599999964237213	Drivers	1
+-32	-0.15000000596046448	Drivers	1
+-4	-0.27000001072883606	Passengers in presence of driver	1
+-4	0.15000000596046448	Passengers in absence of driver	1
+-5	-0.8600000143051147	Passengers in presence of driver	1
+0	-0.8100000023841858	Drivers	1
+10	-0.20000000298023224	Passengers in presence of driver	1
+16	0.25	Passengers in absence of driver	1
+19	-0.23000000417232513	Passengers in presence of driver	1
+24	-0.15000000596046448	Drivers	1
+24	0.18000000715255737	Drivers	1
+24	0.30000001192092896	Drivers	1
+2	-0.8399999737739563	Drivers	1
+-1	-0.8799999952316284	Drivers	1
+-2	0.8399999737739563	Drivers	1
+44	-0.5699999928474426	Drivers	1
+-1	-0.8600000143051147	Drivers	1
+-1	-0.8600000143051147	Drivers	1
+-22	0.49000000953674316	Drivers	1
+-2	0.7699999809265137	Drivers	1
+-3	0.15000000596046448	Drivers	1
+-5	0.3400000035762787	Drivers	1
+1	-0.8199999928474426	Drivers	1
+1	-0.8899999856948853	Drivers	1
+2	-0.7900000214576721	Drivers	1
+5	0.7799999713897705	Passengers in absence of driver	2
+-15	0.18000000715255737	Passengers in absence of driver	1
+-1	0.5099999904632568	Passengers in absence of driver	1
+-20	-0.15000000596046448	Passengers in absence of driver	1
+-26	0.25	Passengers in absence of driver	1
+-27	0.18000000715255737	Passengers in absence of driver	1
+-29	-0.28999999165534973	Passengers in absence of driver	1
+-2	-0.14000000059604645	Passengers in absence of driver	3
+-2	-0.1899999976158142	Passengers in absence of driver	1
+-39	0.27000001072883606	Passengers in absence of driver	1
+-3	-0.5400000214576721	Passengers in absence of driver	1
+-3	0.18000000715255737	Passengers in absence of driver	1
+-5	0.15000000596046448	Passengers in absence of driver	2
+-6	-0.15000000596046448	Passengers in absence of driver	1
+-7	-0.5899999737739563	Passengers in absence of driver	1
+-8	0.15000000596046448	Passengers in absence of driver	1
+0	0.14000000059604645	Passengers in absence of driver	1
+18	0.23999999463558197	Passengers in absence of driver	1
+1	0.18000000715255737	Passengers in absence of driver	1
+1	0.20000000298023224	Passengers in absence of driver	2
+1	0.5699999928474426	Passengers in absence of driver	2
+28	-0.14000000059604645	Passengers in absence of driver	1
+2	0.15000000596046448	Passengers in absence of driver	1
+44	0.28999999165534973	Passengers in absence of driver	1
+5	-0.6800000071525574	Passengers in absence of driver	1
+3	0.3700000047683716	Passengers in absence of driver	1
+-2	0.33000001311302185	Passengers in absence of driver	1
+-17	0.1899999976158142	Passengers in absence of driver	1
+-48	-0.2800000011920929	Drivers	1
+-6	-0.3100000023841858	Passengers in absence of driver	1
+-1	-0.8600000143051147	Drivers	1
+-2	0.8799999952316284	Drivers	1
+39	-0.1899999976158142	Passengers in absence of driver	1
+41	-0.4000000059604645	Drivers	1
+-5	0.3100000023841858	Passengers in presence of driver	1
+-5	0.23999999463558197	Passengers in absence of driver	1
+6	0.18000000715255737	Passengers in absence of driver	2
+6	0.18000000715255737	Passengers in presence of driver	1
+6	0.23999999463558197	Passengers in presence of driver	1
+-1	-0.8500000238418579	Passengers in absence of driver	1
+-1	-0.8600000143051147	Passengers in absence of driver	2
+-2	-0.8399999737739563	Passengers in absence of driver	1
+-35	-0.41999998688697815	Drivers	1
+-6	0.5799999833106995	Passengers in absence of driver	1
+15	0.7400000095367432	Drivers	1
+3	0.5099999904632568	Passengers in absence of driver	1
+1	0.2800000011920929	Drivers	1
+-15	0.3100000023841858	Passengers in absence of driver	1
+-6	0.49000000953674316	Passengers in absence of driver	1
+-8	0.3400000035762787	Passengers in absence of driver	1
+1	0.20999999344348907	Passengers in absence of driver	1
+33	0.2199999988079071	Passengers in absence of driver	1
+38	0.4000000059604645	Passengers in absence of driver	1
+-10	0.17000000178813934	Drivers	1
+-5	-0.75	Passengers in absence of driver	1
+-5	0.5899999737739563	Passengers in presence of driver	1
+-2	0.14000000059604645	Drivers	1
+-18	0.3499999940395355	Drivers	1
+-19	0.3400000035762787	Drivers	1
+-19	0.6700000166893005	Drivers	1
+-1	-0.8399999737739563	Drivers	3
+-1	-0.8500000238418579	Drivers	1
+-2	-0.8299999833106995	Drivers	1
+-2	-0.8299999833106995	Drivers	1
+-2	0.6200000047683716	Passengers in presence of driver	1
+-2	0.7200000286102295	Drivers	3
+-3	-0.47999998927116394	Passengers in presence of driver	1
+4	0.4099999964237213	Drivers	1
+5	0.46000000834465027	Passengers in presence of driver	1
+0	-0.20999999344348907	Drivers	1
+-37	-0.2199999988079071	Drivers	1
+0	-0.7200000286102295	Drivers	1
+1	-0.8700000047683716	Drivers	1
+22	-0.15000000596046448	Drivers	1
+2	-0.8899999856948853	Drivers	1
+-11	0.14000000059604645	Passengers in absence of driver	1
+-11	0.3100000023841858	Passengers in absence of driver	1
+-11	0.8399999737739563	Passengers in absence of driver	1
+-12	0.25	Passengers in absence of driver	4
+-12	0.27000001072883606	Passengers in absence of driver	1
+-16	0.23000000417232513	Passengers in absence of driver	1
+-17	0.17000000178813934	Passengers in absence of driver	1
+-17	0.20000000298023224	Passengers in absence of driver	1
+-1	-0.8600000143051147	Passengers in absence of driver	1
+-1	-0.8700000047683716	Passengers in absence of driver	1
+-1	0.17000000178813934	Passengers in absence of driver	1
+-1	0.6100000143051147	Passengers in absence of driver	1
+-1	0.6700000166893005	Passengers in absence of driver	1
+-1	0.7799999713897705	Passengers in absence of driver	1
+-21	0.14000000059604645	Passengers in absence of driver	1
+-23	-0.20999999344348907	Passengers in absence of driver	1
+-28	0.30000001192092896	Passengers in absence of driver	1
+-28	0.4699999988079071	Passengers in absence of driver	1
+-2	0.2199999988079071	Passengers in absence of driver	1
+-2	0.23999999463558197	Passengers in absence of driver	1
+-32	0.17000000178813934	Passengers in absence of driver	1
+-3	0.25	Passengers in absence of driver	1
+-3	0.3799999952316284	Passengers in absence of driver	1
+-46	0.14000000059604645	Passengers in absence of driver	1
+-47	0.20000000298023224	Passengers in absence of driver	1
+-5	0.1599999964237213	Passengers in absence of driver	1
+-5	0.1899999976158142	Passengers in absence of driver	1
+-5	0.7099999785423279	Passengers in absence of driver	1
+-6	0.15000000596046448	Passengers in absence of driver	1
+-6	0.18000000715255737	Passengers in absence of driver	1
+-6	0.3400000035762787	Passengers in absence of driver	1
+-7	-0.7799999713897705	Passengers in absence of driver	1
+-8	0.46000000834465027	Passengers in absence of driver	1
+-8	0.8600000143051147	Passengers in absence of driver	1
+-9	0.3199999928474426	Passengers in absence of driver	1
+0	-0.1599999964237213	Passengers in absence of driver	1
+0	0.15000000596046448	Passengers in absence of driver	1
+0	0.2199999988079071	Passengers in absence of driver	1
+0	0.27000001072883606	Passengers in absence of driver	1
+0	0.4000000059604645	Passengers in absence of driver	1
+0	0.47999998927116394	Passengers in absence of driver	1
+12	0.1599999964237213	Passengers in absence of driver	1
+12	0.33000001311302185	Passengers in absence of driver	1
+12	0.38999998569488525	Passengers in absence of driver	1
+15	0.15000000596046448	Passengers in absence of driver	1
+1	0.15000000596046448	Passengers in absence of driver	1
+1	0.1599999964237213	Passengers in absence of driver	1
+1	0.25	Passengers in absence of driver	1
+1	0.2800000011920929	Passengers in absence of driver	1
+1	0.30000001192092896	Passengers in absence of driver	1
+26	0.20000000298023224	Passengers in absence of driver	1
+29	0.1599999964237213	Passengers in absence of driver	1
+2	0.14000000059604645	Passengers in absence of driver	1
+2	0.14000000059604645	Passengers in absence of driver	1
+2	0.15000000596046448	Passengers in absence of driver	1
+2	0.1899999976158142	Passengers in absence of driver	1
+2	0.1899999976158142	Passengers in absence of driver	1
+2	0.20000000298023224	Passengers in absence of driver	1
+2	0.23000000417232513	Passengers in absence of driver	1
+2	0.6600000262260437	Passengers in absence of driver	1
+30	0.1899999976158142	Passengers in absence of driver	1
+34	0.1599999964237213	Passengers in absence of driver	1
+3	-0.17000000178813934	Passengers in absence of driver	1
+3	0.1599999964237213	Passengers in absence of driver	1
+42	0.15000000596046448	Passengers in absence of driver	1
+4	-0.4000000059604645	Passengers in absence of driver	1
+4	0.17000000178813934	Passengers in absence of driver	1
+50	-0.3100000023841858	Passengers in absence of driver	1
+5	-0.1899999976158142	Passengers in absence of driver	1
+5	-0.5699999928474426	Passengers in absence of driver	1
+5	-0.6399999856948853	Passengers in absence of driver	1
+5	-0.6899999976158142	Passengers in absence of driver	1
+5	0.3700000047683716	Passengers in absence of driver	1
+6	-0.18000000715255737	Passengers in absence of driver	1
+7	0.20999999344348907	Passengers in absence of driver	1
+8	0.23000000417232513	Passengers in absence of driver	1
+9	0.20999999344348907	Passengers in absence of driver	1
+-5	0.6100000143051147	Passengers in presence of driver	1
+0	-0.41999998688697815	Passengers in absence of driver	1
+0	-0.5199999809265137	Passengers in absence of driver	1
+11	-0.25	Passengers in absence of driver	1
+5	-0.47999998927116394	Passengers in absence of driver	1
+-19	0.7400000095367432	Drivers	1
+-1	-0.8399999737739563	Drivers	1
+5	-0.5099999904632568	Passengers in absence of driver	1
+0	-0.7400000095367432	Passengers in absence of driver	1
+36	0.1599999964237213	Passengers in absence of driver	1
+3	-0.7599999904632568	Passengers in absence of driver	1
+-47	0.3400000035762787	Passengers in absence of driver	1
+-7	0.28999999165534973	Passengers in absence of driver	1
+2	0.6000000238418579	Passengers in absence of driver	1
+3	0.5699999928474426	Passengers in absence of driver	1
+-11	0.8399999737739563	Drivers	1
+-12	-0.3400000035762787	Passengers in absence of driver	1
+-12	0.5899999737739563	Passengers in absence of driver	1
+-1	-0.8700000047683716	Drivers	1
+-2	-0.8799999952316284	Drivers	1
+-33	-0.15000000596046448	Drivers	1
+-7	0.8199999928474426	Drivers	1
+4	0.6200000047683716	Passengers in absence of driver	1
+-3	0.7200000286102295	Passengers in absence of driver	1
+-48	0.20999999344348907	Passengers in absence of driver	1
+-4	0.18000000715255737	Passengers in absence of driver	1
+2	0.5099999904632568	Passengers in absence of driver	1
+8	-0.6399999856948853	Passengers in absence of driver	1
+-3	0.15000000596046448	Passengers in absence of driver	1
+-9	0.15000000596046448	Passengers in absence of driver	1
+12	0.23999999463558197	Drivers	1
+2	-0.7900000214576721	Drivers	1
+-9	-0.5699999928474426	Drivers	1
+0	-0.7400000095367432	Drivers	1
+0	0.7900000214576721	Passengers in absence of driver	1
+1	0.8199999928474426	Drivers	1
+4	-0.5	Passengers in absence of driver	1
+-20	-0.4099999964237213	Drivers	1
+34	0.14000000059604645	Drivers	1
+34	0.4300000071525574	Drivers	1
+-2	0.41999998688697815	Passengers in absence of driver	1
+-5	-0.7900000214576721	Passengers in absence of driver	1
+1	-0.8500000238418579	Drivers	1
+2	0.27000001072883606	Drivers	1
+2	-0.8899999856948853	Passengers in absence of driver	1
+39	0.20000000298023224	Passengers in absence of driver	1
+-17	-0.23999999463558197	Drivers	4
+-29	-0.20999999344348907	Drivers	1
+-2	-0.4300000071525574	Drivers	1
+-47	-0.1599999964237213	Passengers in absence of driver	1
+-5	0.14000000059604645	Passengers in absence of driver	1
+0	-0.7900000214576721	Passengers in absence of driver	1
+0	0.1899999976158142	Passengers in absence of driver	1
+1	-0.8100000023841858	Drivers	1
+1	0.75	Passengers in absence of driver	1
+22	0.15000000596046448	Drivers	1
+2	0.8500000238418579	Drivers	1
+-10	-0.36000001430511475	Passengers in absence of driver	1
+-14	-0.800000011920929	Passengers in absence of driver	1
+-15	-0.3799999952316284	Passengers in presence of driver	1
+-1	-0.28999999165534973	Drivers	1
+-1	-0.5199999809265137	Passengers in absence of driver	1
+-1	-0.8399999737739563	Drivers	1
+-1	-0.8500000238418579	Drivers	1
+-1	0.8100000023841858	Passengers in absence of driver	1
+-21	0.4099999964237213	Drivers	1
+-2	-0.8700000047683716	Drivers	1
+-2	0.4000000059604645	Drivers	1
+-37	0.1599999964237213	Passengers in absence of driver	1
+-41	-0.18000000715255737	Drivers	1
+-45	-0.3499999940395355	Drivers	1
+13	-0.3100000023841858	Passengers in absence of driver	1
+1	-0.8899999856948853	Drivers	1
+2	0.20999999344348907	Drivers	1
+31	0.20000000298023224	Drivers	1
+4	0.7200000286102295	Passengers in absence of driver	1
+5	-0.7599999904632568	Passengers in absence of driver	1
+-1	-0.6800000071525574	Passengers in presence of driver	1
+-2	0.4699999988079071	Passengers in presence of driver	1
+-13	0.14000000059604645	Passengers in absence of driver	1
+-10	-0.38999998569488525	Passengers in absence of driver	1
+-11	-0.27000001072883606	Passengers in absence of driver	1
+-14	0.6600000262260437	Passengers in absence of driver	1
+-16	0.20999999344348907	Passengers in absence of driver	1
+-17	0.2800000011920929	Passengers in absence of driver	1
+-1	-0.8100000023841858	Passengers in absence of driver	1
+-1	-0.8399999737739563	Passengers in absence of driver	1
+-1	0.1899999976158142	Passengers in absence of driver	1
+-1	0.23999999463558197	Passengers in absence of driver	1
+-1	0.3199999928474426	Passengers in absence of driver	1
+-1	0.7400000095367432	Passengers in absence of driver	1
+-1	0.7599999904632568	Passengers in absence of driver	6
+-23	0.14000000059604645	Passengers in absence of driver	1
+-23	0.18000000715255737	Passengers in absence of driver	1
+-24	0.1599999964237213	Passengers in absence of driver	1
+-25	0.20999999344348907	Passengers in absence of driver	1
+-26	0.15000000596046448	Passengers in absence of driver	1
+-27	0.14000000059604645	Passengers in absence of driver	1
+-28	0.3100000023841858	Passengers in absence of driver	1
+-2	-0.8600000143051147	Passengers in absence of driver	1
+-2	0.1599999964237213	Passengers in absence of driver	1
+-30	0.15000000596046448	Passengers in absence of driver	1
+-32	0.17000000178813934	Passengers in absence of driver	1
+-3	0.20999999344348907	Passengers in absence of driver	1
+-3	0.36000001430511475	Passengers in absence of driver	1
+-42	0.18000000715255737	Passengers in absence of driver	1
+-45	-0.28999999165534973	Passengers in absence of driver	1
+-45	0.14000000059604645	Passengers in absence of driver	1
+-45	0.15000000596046448	Passengers in absence of driver	1
+-5	-0.3400000035762787	Passengers in absence of driver	1
+-5	0.14000000059604645	Passengers in absence of driver	1
+-8	-0.4399999976158142	Passengers in absence of driver	1
+-8	0.18000000715255737	Passengers in absence of driver	1
+-9	0.33000001311302185	Passengers in absence of driver	1
+-9	0.6700000166893005	Passengers in absence of driver	1
+0	-0.8399999737739563	Passengers in absence of driver	1
+0	0.5400000214576721	Passengers in absence of driver	1
+0	0.7300000190734863	Passengers in absence of driver	1
+11	0.3400000035762787	Passengers in absence of driver	1
+12	0.1599999964237213	Passengers in absence of driver	1
+14	0.23000000417232513	Passengers in absence of driver	1
+17	0.20000000298023224	Passengers in absence of driver	1
+18	0.1899999976158142	Passengers in absence of driver	1
+19	0.18000000715255737	Passengers in absence of driver	1
+1	-0.8100000023841858	Passengers in absence of driver	1
+1	-0.8600000143051147	Passengers in absence of driver	1
+1	0.15000000596046448	Passengers in absence of driver	1
+1	0.17000000178813934	Passengers in absence of driver	1
+1	0.20000000298023224	Passengers in absence of driver	1
+1	0.27000001072883606	Passengers in absence of driver	1
+1	0.3799999952316284	Passengers in absence of driver	1
+1	0.4099999964237213	Passengers in absence of driver	1
+1	0.4699999988079071	Passengers in absence of driver	1
+1	0.7699999809265137	Passengers in absence of driver	1
+22	0.1899999976158142	Passengers in absence of driver	1
+25	0.1899999976158142	Passengers in absence of driver	1
+27	0.1599999964237213	Passengers in absence of driver	1
+29	0.18000000715255737	Passengers in absence of driver	1
+2	0.14000000059604645	Passengers in absence of driver	1
+2	0.6000000238418579	Passengers in absence of driver	1
+2	0.7799999713897705	Passengers in absence of driver	1
+34	0.14000000059604645	Passengers in absence of driver	1
+34	0.33000001311302185	Passengers in absence of driver	1
+35	0.14000000059604645	Passengers in absence of driver	1
+37	0.1899999976158142	Passengers in absence of driver	1
+39	0.23999999463558197	Passengers in absence of driver	1
+3	0.14000000059604645	Passengers in absence of driver	1
+3	0.2800000011920929	Passengers in absence of driver	1
+3	0.6800000071525574	Passengers in absence of driver	1
+4	-0.3700000047683716	Passengers in absence of driver	1
+5	0.17000000178813934	Passengers in absence of driver	1
+5	0.36000001430511475	Passengers in absence of driver	1
+5	0.550000011920929	Passengers in absence of driver	1
+5	0.5899999737739563	Passengers in absence of driver	1
+5	0.7599999904632568	Passengers in absence of driver	1
+6	0.20000000298023224	Passengers in absence of driver	1
+6	0.3400000035762787	Passengers in absence of driver	1
+7	0.14000000059604645	Passengers in absence of driver	1
+9	0.25999999046325684	Passengers in absence of driver	1
+-27	-0.2199999988079071	Drivers	1
+-2	0.49000000953674316	Drivers	1
+-5	-0.6499999761581421	Passengers in absence of driver	1
+46	-0.1899999976158142	Drivers	1
+-15	0.14000000059604645	Passengers in absence of driver	1
+-15	0.1599999964237213	Passengers in absence of driver	2
+-16	0.1599999964237213	Passengers in absence of driver	1
+-16	0.2199999988079071	Passengers in absence of driver	1
+-1	0.5600000023841858	Passengers in absence of driver	1
+-23	0.20000000298023224	Passengers in absence of driver	1
+-25	0.36000001430511475	Passengers in absence of driver	3
+-26	0.14000000059604645	Passengers in absence of driver	1
+-26	0.15000000596046448	Passengers in absence of driver	1
+-29	0.1599999964237213	Passengers in absence of driver	1
+-2	0.14000000059604645	Passengers in absence of driver	1
+-2	0.17000000178813934	Passengers in absence of driver	1
+-30	0.18000000715255737	Passengers in absence of driver	1
+-37	0.14000000059604645	Passengers in absence of driver	1
+-47	0.23000000417232513	Passengers in absence of driver	1
+-5	0.44999998807907104	Passengers in absence of driver	2
+-6	0.25	Passengers in absence of driver	1
+-7	0.1599999964237213	Passengers in absence of driver	1
+-8	0.1899999976158142	Passengers in absence of driver	1
+-8	0.23999999463558197	Passengers in absence of driver	1
+11	-0.15000000596046448	Passengers in absence of driver	1
+20	0.23000000417232513	Passengers in absence of driver	1
+25	0.17000000178813934	Passengers in absence of driver	1
+27	0.30000001192092896	Passengers in absence of driver	1
+30	0.25	Passengers in absence of driver	1
+33	0.2199999988079071	Passengers in absence of driver	1
+36	0.30000001192092896	Passengers in absence of driver	1
+3	0.1899999976158142	Passengers in absence of driver	1
+40	0.1599999964237213	Passengers in absence of driver	1
+8	0.23000000417232513	Passengers in absence of driver	1
+-18	-0.4300000071525574	Passengers in absence of driver	1
+-1	-0.8799999952316284	Drivers	1
+-26	-0.3799999952316284	Drivers	1
+1	-0.8299999833106995	Drivers	1
+1	-0.8399999737739563	Drivers	1
+28	0.4099999964237213	Drivers	1
+-1	-0.8299999833106995	Passengers in absence of driver	1
+-5	-0.7799999713897705	Passengers in absence of driver	1
+-1	-0.7699999809265137	Passengers in absence of driver	1
+-1	-0.7699999809265137	Passengers in absence of driver	1
+-1	0.46000000834465027	Passengers in presence of driver	1
+-3	-0.4399999976158142	Passengers in absence of driver	1
+0	-0.3499999940395355	Passengers in absence of driver	1
+37	-0.2199999988079071	Passengers in absence of driver	1
+-1	-0.5400000214576721	Passengers in absence of driver	1
+-41	-0.36000001430511475	Passengers in absence of driver	1
+9	0.15000000596046448	Passengers in absence of driver	1
+-16	-0.17000000178813934	Drivers	1
+-23	-0.20000000298023224	Drivers	1
+1	-0.8500000238418579	Drivers	1
+23	-0.5600000023841858	Drivers	1
+2	0.5099999904632568	Drivers	1
+9	0.1899999976158142	Passengers in absence of driver	1
+2	0.14000000059604645	Drivers	1
+50	0.25999999046325684	Passengers in absence of driver	1
+-32	-0.6200000047683716	Drivers	1
+-2	-0.8700000047683716	Drivers	1
+-8	0.7400000095367432	Drivers	1
+0	-0.23000000417232513	Drivers	1
+-12	0.18000000715255737	Drivers	1
+-12	0.8299999833106995	Drivers	1
+-13	0.8199999928474426	Drivers	1
+-14	-0.6700000166893005	Passengers in absence of driver	1
+-1	-0.8700000047683716	Drivers	1
+-1	-0.8999999761581421	Drivers	1
+-1	-0.8999999761581421	Drivers	1
+-2	-0.8700000047683716	Drivers	1
+-2	-0.8899999856948853	Drivers	1
+-3	-0.7699999809265137	Passengers in absence of driver	1
+-5	-0.46000000834465027	Passengers in absence of driver	1
+-7	-0.44999998807907104	Drivers	1
+1	-0.8899999856948853	Drivers	1
+27	0.5299999713897705	Drivers	1
+28	-0.2199999988079071	Passengers in presence of driver	1
+9	0.28999999165534973	Passengers in presence of driver	1
+-37	-0.18000000715255737	Drivers	1
+-5	-0.8199999928474426	Passengers in absence of driver	1
+-1	-0.8799999952316284	Passengers in absence of driver	1
+-5	-0.49000000953674316	Passengers in absence of driver	1
+1	-0.8600000143051147	Passengers in absence of driver	1
+24	0.15000000596046448	Passengers in absence of driver	1
+29	0.7799999713897705	Passengers in absence of driver	1
+2	0.7699999809265137	Passengers in absence of driver	1
+-18	0.18000000715255737	Passengers in absence of driver	1
+23	-0.3100000023841858	Passengers in absence of driver	1
+3	-0.7300000190734863	Passengers in presence of driver	1
+-1	0.8299999833106995	Drivers	1
+-3	-0.8199999928474426	Passengers in absence of driver	1
+-3	0.1899999976158142	Passengers in absence of driver	1
+-5	-0.8199999928474426	Passengers in absence of driver	1
+0	-0.6299999952316284	Drivers	1
+1	-0.8600000143051147	Drivers	1
+1	-0.8700000047683716	Drivers	1
+1	-0.8899999856948853	Drivers	1
+1	0.4099999964237213	Drivers	1
+2	-0.8600000143051147	Drivers	1
+2	0.800000011920929	Drivers	1
+2	0.8500000238418579	Drivers	1
+6	0.20000000298023224	Drivers	1
+9	0.550000011920929	Drivers	1
+-15	0.6899999976158142	Passengers in absence of driver	1
+-29	0.17000000178813934	Passengers in absence of driver	1
+17	0.2199999988079071	Passengers in absence of driver	1
+4	0.23999999463558197	Passengers in absence of driver	1
+9	0.1599999964237213	Passengers in absence of driver	1
+-10	0.5099999904632568	Passengers in absence of driver	1
+-12	0.18000000715255737	Passengers in absence of driver	1
+-14	0.14000000059604645	Passengers in absence of driver	1
+-14	0.33000001311302185	Passengers in absence of driver	1
+-17	0.2199999988079071	Passengers in absence of driver	1
+-17	0.2800000011920929	Passengers in absence of driver	1
+-18	0.17000000178813934	Passengers in absence of driver	1
+-18	0.25999999046325684	Passengers in absence of driver	1
+-1	0.3700000047683716	Passengers in absence of driver	1
+-1	0.7900000214576721	Passengers in absence of driver	1
+-20	0.23000000417232513	Passengers in absence of driver	1
+-21	0.1899999976158142	Passengers in absence of driver	1
+-26	0.14000000059604645	Passengers in absence of driver	1
+-26	0.20999999344348907	Passengers in absence of driver	1
+-2	-0.7799999713897705	Passengers in absence of driver	1
+-2	-0.8100000023841858	Passengers in absence of driver	1
+-2	-0.8199999928474426	Passengers in absence of driver	1
+-3	0.15000000596046448	Passengers in absence of driver	1
+-3	0.30000001192092896	Passengers in absence of driver	1
+-6	0.5799999833106995	Passengers in absence of driver	1
+-7	0.33000001311302185	Passengers in absence of driver	1
+0	0.20999999344348907	Passengers in absence of driver	1
+0	0.23000000417232513	Passengers in absence of driver	1
+0	0.28999999165534973	Passengers in absence of driver	1
+0	0.3100000023841858	Passengers in absence of driver	1
+15	0.20000000298023224	Passengers in absence of driver	1
+1	0.28999999165534973	Passengers in absence of driver	1
+1	0.3100000023841858	Passengers in absence of driver	1
+1	0.3400000035762787	Passengers in absence of driver	1
+1	0.36000001430511475	Passengers in absence of driver	1
+1	0.550000011920929	Passengers in absence of driver	1
+25	0.28999999165534973	Passengers in absence of driver	1
+30	0.1599999964237213	Passengers in absence of driver	1
+30	0.4699999988079071	Passengers in absence of driver	1
+33	0.15000000596046448	Passengers in absence of driver	1
+36	0.18000000715255737	Passengers in absence of driver	1
+37	0.14000000059604645	Passengers in absence of driver	1
+3	0.15000000596046448	Passengers in absence of driver	1
+3	0.20000000298023224	Passengers in absence of driver	1
+43	0.1599999964237213	Passengers in absence of driver	1
+46	0.23999999463558197	Passengers in absence of driver	1
+5	-0.7599999904632568	Passengers in absence of driver	1
+5	0.1599999964237213	Passengers in absence of driver	1
+5	0.5099999904632568	Passengers in absence of driver	1
+6	0.18000000715255737	Passengers in absence of driver	1
+6	0.36000001430511475	Passengers in absence of driver	1
+9	0.20999999344348907	Passengers in absence of driver	1
+-2	0.33000001311302185	Passengers in absence of driver	1
+2	0.20000000298023224	Passengers in absence of driver	1
+-10	-0.33000001311302185	Drivers	1
+-1	-0.8100000023841858	Passengers in absence of driver	1
+-27	-0.23000000417232513	Drivers	1
+-30	-0.33000001311302185	Drivers	1
+-5	-0.6399999856948853	Passengers in absence of driver	1
+-9	-0.17000000178813934	Drivers	1
+10	0.46000000834465027	Passengers in absence of driver	1
+19	-0.28999999165534973	Drivers	1
+19	-0.3100000023841858	Drivers	1
+1	-0.8700000047683716	Drivers	1
+2	-0.8500000238418579	Drivers	1
+34	0.14000000059604645	Passengers in absence of driver	1
+5	0.6800000071525574	Drivers	1
+-5	-0.8199999928474426	Passengers in absence of driver	1
+31	0.25	Passengers in absence of driver	1
+32	-0.1599999964237213	Drivers	1
+41	-0.15000000596046448	Drivers	1
+-10	0.1899999976158142	Passengers in absence of driver	1
+-10	0.3100000023841858	Passengers in absence of driver	1
+-10	0.46000000834465027	Passengers in absence of driver	1
+-11	0.14000000059604645	Passengers in absence of driver	2
+-11	0.18000000715255737	Passengers in absence of driver	1
+-13	0.47999998927116394	Passengers in absence of driver	2
+-15	0.15000000596046448	Passengers in absence of driver	1
+-16	0.27000001072883606	Passengers in absence of driver	1
+-1	0.14000000059604645	Passengers in absence of driver	1
+-1	0.3100000023841858	Passengers in absence of driver	1
+-20	0.17000000178813934	Passengers in absence of driver	1
+-26	0.15000000596046448	Passengers in absence of driver	1
+-28	-0.20000000298023224	Passengers in absence of driver	1
+-28	0.14000000059604645	Passengers in absence of driver	1
+-28	0.17000000178813934	Passengers in absence of driver	1
+-2	0.2800000011920929	Passengers in absence of driver	1
+-2	0.3199999928474426	Passengers in absence of driver	1
+-35	-0.20999999344348907	Passengers in absence of driver	2
+-39	0.3499999940395355	Passengers in absence of driver	1
+-3	0.1899999976158142	Passengers in absence of driver	1
+-41	0.14000000059604645	Passengers in absence of driver	1
+-4	0.20999999344348907	Passengers in absence of driver	1
+-5	0.33000001311302185	Passengers in absence of driver	2
+-6	0.14000000059604645	Passengers in absence of driver	1
+-7	0.17000000178813934	Passengers in absence of driver	1
+-8	0.15000000596046448	Passengers in absence of driver	1
+-9	-0.1599999964237213	Passengers in absence of driver	1
+0	0.33000001311302185	Passengers in absence of driver	1
+17	-0.20000000298023224	Passengers in absence of driver	1
+19	0.15000000596046448	Passengers in absence of driver	1
+1	0.15000000596046448	Passengers in absence of driver	1
+23	0.18000000715255737	Passengers in absence of driver	1
+25	0.1599999964237213	Passengers in absence of driver	1
+29	-0.1899999976158142	Passengers in absence of driver	1
+2	0.6800000071525574	Passengers in absence of driver	1
+30	0.1599999964237213	Passengers in absence of driver	1
+33	0.14000000059604645	Passengers in absence of driver	1
+3	-0.36000001430511475	Passengers in absence of driver	1
+3	0.2800000011920929	Passengers in absence of driver	2
+3	0.41999998688697815	Passengers in absence of driver	1
+46	0.25999999046325684	Passengers in absence of driver	1
+4	0.17000000178813934	Passengers in absence of driver	1
+4	0.18000000715255737	Passengers in absence of driver	1
+50	0.1599999964237213	Passengers in absence of driver	1
+50	0.23000000417232513	Passengers in absence of driver	1
+7	0.15000000596046448	Passengers in absence of driver	1
+-1	0.1599999964237213	Passengers in absence of driver	1
+-1	0.18000000715255737	Passengers in absence of driver	1
+-1	0.2199999988079071	Passengers in absence of driver	1
+-1	0.28999999165534973	Passengers in absence of driver	1
+-28	0.14000000059604645	Passengers in absence of driver	1
+-29	0.14000000059604645	Passengers in absence of driver	1
+-29	0.1899999976158142	Passengers in absence of driver	1
+-2	0.6200000047683716	Passengers in absence of driver	1
+-30	0.23999999463558197	Passengers in absence of driver	1
+-33	0.36000001430511475	Passengers in absence of driver	1
+-34	0.15000000596046448	Passengers in absence of driver	1
+-3	0.14000000059604645	Passengers in absence of driver	1
+-3	0.1599999964237213	Passengers in absence of driver	1
+-3	0.1599999964237213	Passengers in absence of driver	1
+-3	0.1599999964237213	Passengers in absence of driver	1
+-3	0.2800000011920929	Passengers in absence of driver	1
+-3	0.2800000011920929	Passengers in absence of driver	1
+-3	0.41999998688697815	Passengers in absence of driver	1
+-45	0.1599999964237213	Passengers in absence of driver	1
+-46	0.3400000035762787	Passengers in absence of driver	1
+-4	0.1599999964237213	Passengers in absence of driver	1
+-4	0.3100000023841858	Passengers in absence of driver	1
+-4	0.4300000071525574	Passengers in absence of driver	1
+-50	0.14000000059604645	Passengers in absence of driver	1
+-5	0.15000000596046448	Passengers in absence of driver	1
+-5	0.6399999856948853	Passengers in absence of driver	1
+-6	0.14000000059604645	Passengers in absence of driver	1
+-7	0.15000000596046448	Passengers in absence of driver	1
+-7	0.1599999964237213	Passengers in absence of driver	1
+-9	0.1599999964237213	Passengers in absence of driver	1
+0	0.1599999964237213	Passengers in absence of driver	1
+10	0.18000000715255737	Passengers in absence of driver	1
+11	0.17000000178813934	Passengers in absence of driver	1
+11	0.38999998569488525	Passengers in absence of driver	1
+12	0.4300000071525574	Passengers in absence of driver	1
+13	0.20999999344348907	Passengers in absence of driver	1
+14	0.23999999463558197	Passengers in absence of driver	1
+15	0.15000000596046448	Passengers in absence of driver	1
+15	0.18000000715255737	Passengers in absence of driver	1
+17	0.17000000178813934	Passengers in absence of driver	1
+17	0.3199999928474426	Passengers in absence of driver	1
+19	0.14000000059604645	Passengers in absence of driver	1
+20	0.25	Passengers in absence of driver	1
+20	0.30000001192092896	Passengers in absence of driver	1
+21	0.1599999964237213	Passengers in absence of driver	1
+21	0.25	Passengers in absence of driver	1
+22	0.18000000715255737	Passengers in absence of driver	1
+22	0.18000000715255737	Passengers in absence of driver	1
+23	0.18000000715255737	Passengers in absence of driver	1
+24	-0.15000000596046448	Passengers in absence of driver	1
+26	0.1599999964237213	Passengers in absence of driver	1
+28	0.1599999964237213	Passengers in absence of driver	1
+29	0.15000000596046448	Passengers in absence of driver	1
+29	0.18000000715255737	Passengers in absence of driver	1
+2	0.27000001072883606	Passengers in absence of driver	1
+2	0.47999998927116394	Passengers in absence of driver	1
+2	0.7799999713897705	Passengers in absence of driver	1
+31	0.15000000596046448	Passengers in absence of driver	1
+34	0.15000000596046448	Passengers in absence of driver	1
+35	0.23999999463558197	Passengers in absence of driver	1
+35	0.30000001192092896	Passengers in absence of driver	1
+36	0.23000000417232513	Passengers in absence of driver	1
+3	0.18000000715255737	Passengers in absence of driver	1
+40	0.1599999964237213	Passengers in absence of driver	1
+43	0.18000000715255737	Passengers in absence of driver	2
+4	0.17000000178813934	Passengers in absence of driver	1
+5	0.4000000059604645	Passengers in absence of driver	1
+8	0.28999999165534973	Passengers in absence of driver	1
+9	0.1599999964237213	Passengers in absence of driver	1
+9	0.18000000715255737	Passengers in absence of driver	1
+9	0.18000000715255737	Passengers in absence of driver	1
+-1	0.8399999737739563	Passengers in absence of driver	1
+-29	-0.5400000214576721	Drivers	1
+-35	-0.7200000286102295	Passengers in absence of driver	1
+-40	0.15000000596046448	Drivers	1
+15	-0.38999998569488525	Drivers	1
+2	-0.8500000238418579	Drivers	1
+2	-0.8600000143051147	Drivers	1
+2	-0.8899999856948853	Drivers	1
+-11	0.14000000059604645	Passengers in presence of driver	1
+-15	0.6399999856948853	Passengers in absence of driver	1
+-15	0.6399999856948853	Passengers in presence of driver	1
+-15	0.6800000071525574	Passengers in absence of driver	1
+-17	0.15000000596046448	Passengers in presence of driver	1
+-19	0.8299999833106995	Passengers in absence of driver	1
+-1	-0.8899999856948853	Passengers in absence of driver	1
+-1	-0.8999999761581421	Passengers in absence of driver	1
+-1	-0.8999999761581421	Passengers in absence of driver	1
+-1	-0.8999999761581421	Passengers in presence of driver	1
+-24	0.6800000071525574	Passengers in presence of driver	1
+-2	0.4699999988079071	Passengers in presence of driver	1
+-33	0.3400000035762787	Passengers in presence of driver	1
+-34	0.5	Passengers in absence of driver	1
+-48	0.20999999344348907	Passengers in absence of driver	1
+-48	0.20999999344348907	Passengers in presence of driver	1
+-49	0.17000000178813934	Passengers in absence of driver	1
+1	-0.8899999856948853	Passengers in absence of driver	1
+1	-0.8899999856948853	Passengers in absence of driver	1
+1	-0.8899999856948853	Passengers in presence of driver	1
+1	-0.8999999761581421	Passengers in presence of driver	1
+1	0.1599999964237213	Passengers in presence of driver	1
+1	0.3700000047683716	Passengers in absence of driver	1
+1	0.3700000047683716	Passengers in presence of driver	1
+28	0.3799999952316284	Passengers in presence of driver	1
+2	-0.8899999856948853	Passengers in presence of driver	1
+3	-0.8299999833106995	Passengers in absence of driver	1
+4	-0.7900000214576721	Passengers in absence of driver	1
+5	-0.8100000023841858	Passengers in absence of driver	1
+5	-0.8100000023841858	Passengers in presence of driver	1
+6	-0.18000000715255737	Passengers in absence of driver	1
+-10	-0.1899999976158142	Drivers	1
+-1	-0.8700000047683716	Drivers	1
+-1	0.5099999904632568	Passengers in absence of driver	1
+-2	-0.5299999713897705	Drivers	1
+-2	-0.8700000047683716	Drivers	1
+-3	-0.7799999713897705	Passengers in absence of driver	1
+-43	0.41999998688697815	Passengers in absence of driver	1
+-5	0.7599999904632568	Passengers in presence of driver	1
+13	0.8500000238418579	Drivers	1
+19	0.36000001430511475	Passengers in absence of driver	1
+2	-0.8700000047683716	Drivers	1
+43	-0.4699999988079071	Drivers	1
+2	0.23000000417232513	Passengers in absence of driver	1
+2	0.7699999809265137	Passengers in presence of driver	1
+-1	0.3799999952316284	Passengers in presence of driver	1
+-1	-0.8799999952316284	Drivers	1
+15	0.6000000238418579	Drivers	1
+1	-0.8299999833106995	Drivers	1
+1	-0.8700000047683716	Drivers	1
+2	-0.8899999856948853	Drivers	1
+36	0.6600000262260437	Drivers	1
+-1	0.8799999952316284	Passengers in absence of driver	1
+-8	-0.8299999833106995	Passengers in absence of driver	1
+-11	0.14000000059604645	Passengers in absence of driver	1
+-1	-0.8500000238418579	Passengers in absence of driver	1
+-1	0.38999998569488525	Passengers in absence of driver	1
+-24	0.30000001192092896	Passengers in presence of driver	1
+-29	-0.15000000596046448	Passengers in absence of driver	1
+-2	0.800000011920929	Passengers in absence of driver	1
+0	-0.3199999928474426	Passengers in presence of driver	1
+2	0.3100000023841858	Passengers in absence of driver	1
+2	0.49000000953674316	Passengers in absence of driver	1
+-17	-0.15000000596046448	Drivers	1
+-1	-0.8100000023841858	Drivers	1
+-2	-0.8600000143051147	Drivers	1
+-5	-0.3799999952316284	Passengers in absence of driver	1
+0	-0.23000000417232513	Drivers	1
+3	0.3100000023841858	Drivers	1
+6	0.28999999165534973	Passengers in absence of driver	1
+-11	-0.46000000834465027	Drivers	4
+-11	-0.5299999713897705	Drivers	1
+-18	0.28999999165534973	Drivers	1
+-19	0.699999988079071	Drivers	1
+-1	-0.8100000023841858	Drivers	1
+-1	-0.8600000143051147	Drivers	1
+-1	-0.8700000047683716	Drivers	1
+-1	-0.8700000047683716	Drivers	1
+-1	-0.8899999856948853	Drivers	8
+-1	-0.8899999856948853	Drivers	28
+-1	-0.8999999761581421	Drivers	1
+-1	-0.8999999761581421	Drivers	1
+-1	-0.8999999761581421	Drivers	1
+-20	0.3400000035762787	Drivers	1
+-20	0.3499999940395355	Drivers	1
+-21	0.25	Drivers	1
+-21	0.800000011920929	Drivers	4
+-22	-0.1899999976158142	Drivers	1
+-22	0.7599999904632568	Drivers	28
+-22	0.7799999713897705	Drivers	8
+-23	0.7099999785423279	Drivers	6
+-23	0.7599999904632568	Drivers	1
+-23	0.7599999904632568	Drivers	1
+-27	-0.1599999964237213	Drivers	1
+-28	0.3400000035762787	Drivers	1
+-2	-0.3700000047683716	Drivers	30
+-2	-0.8100000023841858	Drivers	1
+-2	-0.8600000143051147	Drivers	1
+-2	-0.8700000047683716	Drivers	1
+-2	-0.8700000047683716	Drivers	1
+-2	-0.8799999952316284	Drivers	4
+-2	-0.8899999856948853	Drivers	1
+-2	-0.8899999856948853	Drivers	6
+-2	-0.8899999856948853	Drivers	1
+-2	-0.8999999761581421	Drivers	1
+-2	-0.8999999761581421	Drivers	12
+-34	-0.17000000178813934	Drivers	1
+-34	-0.1899999976158142	Drivers	1
+-34	-0.23000000417232513	Drivers	1
+-35	-0.6000000238418579	Drivers	220
+-3	0.27000001072883606	Drivers	1
+-48	-0.2199999988079071	Drivers	4
+-4	0.550000011920929	Drivers	9
+-4	0.6200000047683716	Drivers	1
+-5	0.5799999833106995	Drivers	1
+0	-0.6899999976158142	Drivers	2
+0	-0.7200000286102295	Drivers	2
+0	-0.7599999904632568	Drivers	4
+0	-0.7900000214576721	Drivers	1
+0	0.23000000417232513	Drivers	1
+0	0.38999998569488525	Passengers in presence of driver	1
+14	-0.47999998927116394	Drivers	20
+17	-0.14000000059604645	Drivers	1
+1	-0.36000001430511475	Drivers	1
+1	-0.7799999713897705	Drivers	1
+1	-0.7799999713897705	Drivers	1
+1	-0.8100000023841858	Drivers	9
+1	-0.8100000023841858	Drivers	1
+1	-0.8799999952316284	Drivers	4
+1	-0.8799999952316284	Drivers	1
+1	-0.8899999856948853	Drivers	4
+1	-0.8899999856948853	Drivers	4
+1	-0.8899999856948853	Drivers	1
+1	-0.8899999856948853	Drivers	4
+1	-0.8899999856948853	Drivers	4
+1	-0.8999999761581421	Drivers	4
+1	0.18000000715255737	Drivers	210
+1	0.4699999988079071	Drivers	1
+1	0.8700000047683716	Drivers	1
+26	-0.5400000214576721	Drivers	28
+2	-0.36000001430511475	Drivers	1
+2	-0.800000011920929	Drivers	1
+2	-0.8799999952316284	Drivers	1
+2	-0.8799999952316284	Drivers	1
+2	-0.8999999761581421	Drivers	1
+2	0.2800000011920929	Drivers	1
+2	0.36000001430511475	Drivers	1
+2	0.4000000059604645	Drivers	4
+32	-0.5600000023841858	Drivers	1
+3	0.23000000417232513	Drivers	1
+42	-0.44999998807907104	Drivers	1
+42	0.75	Drivers	1
+42	0.7599999904632568	Drivers	1
+43	0.7599999904632568	Drivers	1
+43	0.7699999809265137	Drivers	1
+47	0.2199999988079071	Drivers	4
+47	0.2800000011920929	Drivers	4
+47	0.7200000286102295	Drivers	12
+48	0.7699999809265137	Drivers	1
+50	-0.6399999856948853	Drivers	4
+5	-0.6899999976158142	Passengers in absence of driver	1
+-3	0.1899999976158142	Passengers in absence of driver	1
+15	0.1899999976158142	Passengers in absence of driver	1
+19	0.15000000596046448	Passengers in absence of driver	1
+21	0.18000000715255737	Passengers in absence of driver	1
+-29	0.18000000715255737	Drivers	1
+1	-0.6499999761581421	Drivers	1
+2	0.44999998807907104	Passengers in absence of driver	1
+-1	-0.8199999928474426	Drivers	1
+16	0.4300000071525574	Drivers	1
+1	-0.8999999761581421	Drivers	1
+2	-0.7799999713897705	Drivers	1
+2	-0.7799999713897705	Drivers	1
+30	-0.4300000071525574	Drivers	1
+39	0.30000001192092896	Drivers	1
+-10	0.3100000023841858	Passengers in absence of driver	1
+-19	0.7400000095367432	Drivers	1
+-1	-0.8399999737739563	Drivers	1
+-1	-0.8700000047683716	Drivers	1
+-1	-0.9100000262260437	Drivers	1
+-1	0.33000001311302185	Passengers in absence of driver	1
+-1	0.5099999904632568	Passengers in absence of driver	1
+-32	-0.14000000059604645	Passengers in absence of driver	1
+-3	0.3100000023841858	Passengers in absence of driver	1
+-43	0.41999998688697815	Passengers in absence of driver	1
+1	0.5799999833106995	Drivers	39
+20	0.23000000417232513	Passengers in absence of driver	1
+23	0.1899999976158142	Passengers in absence of driver	1
+29	-0.25999999046325684	Passengers in absence of driver	1
+2	0.3799999952316284	Passengers in presence of driver	1
+2	0.7699999809265137	Passengers in presence of driver	1
+36	0.1599999964237213	Passengers in absence of driver	1
+37	0.8199999928474426	Drivers	1
+3	0.3199999928474426	Passengers in absence of driver	1
+50	0.25999999046325684	Passengers in absence of driver	1
+5	-0.20000000298023224	Passengers in absence of driver	1
+5	-0.27000001072883606	Passengers in absence of driver	1
+5	0.1599999964237213	Passengers in presence of driver	1
+5	0.23999999463558197	Drivers	1
+6	0.2800000011920929	Drivers	1
+9	-0.14000000059604645	Passengers in absence of driver	2

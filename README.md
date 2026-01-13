@@ -11,7 +11,7 @@ The analyses performed include:
 
 ## Repository Structure
 
-- **data/**: Raw data used for all analyses are stored here. Due to privacy and data access restrictions, only a subset of the data is shared via Zenodo (DOI: 10.5281/zenodo.18224257). Users are responsible for independently obtaining access to controlled datasets, including TCGA, in accordance with the relevant data use agreements.
+- **data/**: Raw data used for all analyses are stored here. Due to privacy and data access restrictions, only a subset of the data is shared via Zenodo ([DOI: 10.5281/zenodo.18224257](https://doi.org/10.5281/zenodo.18226975)). Users are responsible for independently obtaining access to controlled datasets, including TCGA, in accordance with the relevant data use agreements.
 - **metadata/**: Contains text files and tabular data obtained from multiple sources, and used for analyses.
 - **notebooks/**: Contains Jupyter notebooks that use the processed data in the **results/** directory for further analysis and data visualization.
 - **scripts/**: Contains scripts used for downloading, parsing, and pre-processing data. Also contains meta scripts for running other scripts.
